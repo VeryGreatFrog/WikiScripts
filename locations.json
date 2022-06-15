@@ -1,0 +1,614 @@
+[
+  {
+    "Key": "Location_Mineral_Field",
+    "SourceString": "Mineral Field"
+  },
+  {
+    "Key": "Location_Evac_Zone",
+    "SourceString": "Evac Zone"
+  },
+  {
+    "Key": "Location_Uplink",
+    "SourceString": "Uplink"
+  },
+  {
+    "Key": "",
+    "SourceString": ""
+  },
+  {
+    "Key": "Location_AlphaWarden",
+    "SourceString": "Alpha Warden"
+  },
+  {
+    "Key": "Location_Hunt",
+    "SourceString": "Hunt"
+  },
+  {
+    "Key": "",
+    "SourceString": ""
+  },
+  {
+    "Key": "Location_Mineral_Normal",
+    "SourceString": "Normal Mineral"
+  },
+  {
+    "Key": "Location_Mineral_Epic",
+    "SourceString": "Epic Mineral"
+  },
+  {
+    "Key": "",
+    "SourceString": ""
+  },
+  {
+    "Key": "Location_DroneCarrier",
+    "SourceString": "Drone Carrier"
+  },
+  {
+    "Key": "Location_DroneCarrier_Drone",
+    "SourceString": "Research Drone"
+  },
+  {
+    "Key": "",
+    "SourceString": ""
+  },
+  {
+    "Key": "Location_Powerup",
+    "SourceString": "Powerup"
+  },
+  {
+    "Key": "Location_SuperPowerupHold",
+    "SourceString": "Central Powerup Hold Area"
+  },
+  {
+    "Key": "",
+    "SourceString": ""
+  },
+  {
+    "Key": "Location_Lobby",
+    "SourceString": "Lobby"
+  },
+  {
+    "Key": "",
+    "SourceString": ""
+  },
+  {
+    "Key": "Location_BigDrill",
+    "SourceString": "Big Drill"
+  },
+  {
+    "Key": "Location_BigDrill_Flying",
+    "SourceString": "Big Drill Flying"
+  },
+  {
+    "Key": "",
+    "SourceString": ""
+  },
+  {
+    "Key": "EvacArea",
+    "SourceString": "Evacuation Zone"
+  },
+  {
+    "Key": "EvacArea_LandingZone",
+    "SourceString": "Evactuation landing pad"
+  },
+  {
+    "Key": "",
+    "SourceString": ""
+  },
+  {
+    "Key": "Location_FoamedPlayer",
+    "SourceString": "Foamed Player"
+  },
+  {
+    "Key": "Location_DBNO-Player",
+    "SourceString": "Downed Player"
+  },
+  {
+    "Key": "",
+    "SourceString": ""
+  },
+  {
+    "Key": "BrightcapDelivery",
+    "SourceString": "Brightcap delivery station"
+  },
+  {
+    "Key": "Location_Deposit_BrightcapField",
+    "SourceString": "Brightcap Field"
+  },
+  {
+    "Key": "",
+    "SourceString": ""
+  },
+  {
+    "Key": "POI_StarportWareHouse",
+    "SourceString": "Starport Warehouse"
+  },
+  {
+    "Key": "POI_AzleaFarms",
+    "SourceString": "Azalea Fields"
+  },
+  {
+    "Key": "POI_Barracks",
+    "SourceString": "Barracks"
+  },
+  {
+    "Key": "POI_CommBase",
+    "SourceString": "Comms Tower"
+  },
+  {
+    "Key": "POI_FallenTree",
+    "SourceString": "Fallen Tree"
+  },
+  {
+    "Key": "POI_Flavela",
+    "SourceString": "Flavela"
+  },
+  {
+    "Key": "POI_GrandSpring",
+    "SourceString": "West Geyser Basin"
+  },
+  {
+    "Key": "POI_NutronFarmsProcessing",
+    "SourceString": "Nutrion Farms Processing"
+  },
+  {
+    "Key": "POI_NutronFarmsWest",
+    "SourceString": "Hay Fields"
+  },
+  {
+    "Key": "POI_AlienArboretum",
+    "SourceString": "NW Alien Arboretum"
+  },
+  {
+    "Key": "POI_PumpkinFarms",
+    "SourceString": "Pumpkin Fields"
+  },
+  {
+    "Key": "POI_RootRockResearch",
+    "SourceString": "Root Rock Research"
+  },
+  {
+    "Key": "POI_Skeleton",
+    "SourceString": "Skeleton"
+  },
+  {
+    "Key": "POI_Deposit",
+    "SourceString": "Geothermal Plant"
+  },
+  {
+    "Key": "POI_Deposit2",
+    "SourceString": "Lake"
+  },
+  {
+    "Key": "POI_SouthernWaterfall",
+    "SourceString": "Waterfall"
+  },
+  {
+    "Key": "POI_TallBridgeStation",
+    "SourceString": "Watch Tower"
+  },
+  {
+    "Key": "POI_Lagoon2",
+    "SourceString": "Oasis"
+  },
+  {
+    "Key": "POI_Lagoon3",
+    "SourceString": "Oasis Research"
+  },
+  {
+    "Key": "POI_Tunnel",
+    "SourceString": "Tunnel"
+  },
+  {
+    "Key": "",
+    "SourceString": ""
+  },
+  {
+    "Key": "",
+    "SourceString": ""
+  },
+  {
+    "Key": "MAP02_GreensProspect",
+    "SourceString": "Greens Prospect"
+  },
+  {
+    "Key": "MAP02_NutrionFarmsProcessing",
+    "SourceString": "Nutrion Farms Processing"
+  },
+  {
+    "Key": "MAP02_NutrionFarmsWarehouse",
+    "SourceString": "Nutrion Farms Warehouse"
+  },
+  {
+    "Key": "MAP02_PumpkinFields",
+    "SourceString": "Pumpkin Fields"
+  },
+  {
+    "Key": "MAP02_HayFields",
+    "SourceString": "Hay Fields"
+  },
+  {
+    "Key": "MAP02_WildlifePreserve",
+    "SourceString": "Osiris Wildlife Preserve"
+  },
+  {
+    "Key": "MAP02_AzaleaFields",
+    "SourceString": "Azalea Fields"
+  },
+  {
+    "Key": "MAP02_Favela",
+    "SourceString": "Favela"
+  },
+  {
+    "Key": "MAP02_FallenTree",
+    "SourceString": "Fallen Tree"
+  },
+  {
+    "Key": "MAP02_Lagoon",
+    "SourceString": "Lagoon"
+  },
+  {
+    "Key": "MAP02_LagoonObservatory",
+    "SourceString": "Lagoon Observatory"
+  },
+  {
+    "Key": "MAP02_GeothermalPlant",
+    "SourceString": "Geothermal Plant"
+  },
+  {
+    "Key": "MAP02_GeothermalPlant_PowerUpLoot",
+    "SourceString": "Geothermal Plant Power Up Room"
+  },
+  {
+    "Key": "MAP02_LakesideBuilding",
+    "SourceString": "Lakeside Building"
+  },
+  {
+    "Key": "MAP02_CenterCamp",
+    "SourceString": "Base Camp"
+  },
+  {
+    "Key": "MAP02_CenterCamp_PowerUpLoot",
+    "SourceString": "Base Camp Power Up Room"
+  },
+  {
+    "Key": "MAP02_RootRockBasin",
+    "SourceString": "Root Rock Prospecting Site"
+  },
+  {
+    "Key": "MAP02_RootRockTunnel",
+    "SourceString": "Root Rock Tunnel"
+  },
+  {
+    "Key": "MAP02_StarportLandingPad",
+    "SourceString": "Starport Landing Pad"
+  },
+  {
+    "Key": "MAP02_StarportAdmin",
+    "SourceString": "Starport Admin"
+  },
+  {
+    "Key": "MAP02_StarportWarehouse",
+    "SourceString": "Starport Warehouse"
+  },
+  {
+    "Key": "MAP02_Skeleton",
+    "SourceString": "Skeleton"
+  },
+  {
+    "Key": "MAP02_SkeletonObservatory",
+    "SourceString": "Skeleton Observation Site"
+  },
+  {
+    "Key": "MAP02_SkeletonObservatory_PowerUpLoot",
+    "SourceString": "Skeleton Observation Site Power Up Room"
+  },
+  {
+    "Key": "MAP02_SkeletonThermalPonds",
+    "SourceString": "Skeleton Thermal Ponds"
+  },
+  {
+    "Key": "MAP02_JungleThermalPonds",
+    "SourceString": "Jungle Thermal Ponds"
+  },
+  {
+    "Key": "MAP02_LagoonThermalPonds",
+    "SourceString": "Lagoon Thermal Ponds"
+  },
+  {
+    "Key": "MAP02_DesertOasis",
+    "SourceString": "Oasis"
+  },
+  {
+    "Key": "MAP02_PinnacleLabs",
+    "SourceString": "Pinnacle Labs"
+  },
+  {
+    "Key": "MAP02_PinnacleThermalPonds",
+    "SourceString": "Pinnacle Thermal Ponds"
+  },
+  {
+    "Key": "MAP02_EliteCrusherDungeon",
+    "SourceString": "Crystal Cave"
+  },
+  {
+    "Key": "MAP02_EliteCrusherDungeonSeal",
+    "SourceString": "Forest Crystal Seal"
+  },
+  {
+    "Key": "MAP01_CommsTower",
+    "SourceString": "Comms Tower"
+  },
+  {
+    "Key": "MAP01_CentralStation",
+    "SourceString": "Base Camp"
+  },
+  {
+    "Key": "MAP01_CollapsedMine",
+    "SourceString": "Abandoned Mine"
+  },
+  {
+    "Key": "MAP01_CrashedShip",
+    "SourceString": "Crashed Ship"
+  },
+  {
+    "Key": "MAP01_DigSite",
+    "SourceString": "Dig Site"
+  },
+  {
+    "Key": "MAP01_DigSiteMine",
+    "SourceString": "Dig Site Mine"
+  },
+  {
+    "Key": "MAP01_DigSite_PowerUpLoot",
+    "SourceString": "Dig Site Power Up Room"
+  },
+  {
+    "Key": "MAP01_EastLandingPad",
+    "SourceString": "East Collection Point"
+  },
+  {
+    "Key": "MAP01_EastLandingPad_PowerUpLoot",
+    "SourceString": "East Collection Point Power Up Room"
+  },
+  {
+    "Key": "MAP01_EastCaverns",
+    "SourceString": "East Caverns"
+  },
+  {
+    "Key": "MAP01_Lagoon",
+    "SourceString": "Lagoon"
+  },
+  {
+    "Key": "MAP01_ScienceCampus",
+    "SourceString": "Science Campus"
+  },
+  {
+    "Key": "MAP01_SwampCamp",
+    "SourceString": "Swamp Camp"
+  },
+  {
+    "Key": "MAP01_WaterFacility",
+    "SourceString": "Water Facility"
+  },
+  {
+    "Key": "MAP01_WaterFacility_PowerUpLoot",
+    "SourceString": "Water Facility Power Up Room"
+  },
+  {
+    "Key": "MAP01_WaterfallLab",
+    "SourceString": "Waterfall Lab"
+  },
+  {
+    "Key": "MAP01_WestLandingPad",
+    "SourceString": "West Collection Point"
+  },
+  {
+    "Key": "MAP01_SouthWestLandingPad",
+    "SourceString": "South West Collection Point"
+  },
+  {
+    "Key": "MAP01_Waterfall",
+    "SourceString": "Waterfalls"
+  },
+  {
+    "Key": "MAP01_VaccineLab",
+    "SourceString": "Vaccine Labs"
+  },
+  {
+    "Key": "MAP01_Powerplant",
+    "SourceString": "Power Plant"
+  },
+  {
+    "Key": "MAP01_WoodCutterCamp",
+    "SourceString": "Woodcutter Camp"
+  },
+  {
+    "Key": "MAP01_DerelictDrill",
+    "SourceString": "Crashed Drill"
+  },
+  {
+    "Key": "MAP01_NorthUplink",
+    "SourceString": "North Uplink"
+  },
+  {
+    "Key": "MAP01_SouthEastUplink",
+    "SourceString": "South East Uplink"
+  },
+  {
+    "Key": "MAP01_Swamp",
+    "SourceString": "Swamp"
+  },
+  {
+    "Key": "MAP01_RockPools",
+    "SourceString": "Rock Pools"
+  },
+  {
+    "Key": "MAP01_Jungle",
+    "SourceString": "Jungle"
+  },
+  {
+    "Key": "MAP01_Lake",
+    "SourceString": "Lake"
+  },
+  {
+    "Key": "MAP01_CarLot",
+    "SourceString": "Parking Lot"
+  },
+  {
+    "Key": "MAP01_JungleCamp",
+    "SourceString": "Jungle Camp"
+  },
+  {
+    "Key": "POI_CollapsedMine",
+    "SourceString": "Collapsed Mine"
+  },
+  {
+    "Key": "POI_CrashedShip",
+    "SourceString": "Crashed Ship"
+  },
+  {
+    "Key": "POI_DigSite",
+    "SourceString": "Dig Site"
+  },
+  {
+    "Key": "POI_EastLandingPad",
+    "SourceString": "East Collection Point"
+  },
+  {
+    "Key": "POI_Lagoon",
+    "SourceString": "Lagoon"
+  },
+  {
+    "Key": "POI_ScienceCampus",
+    "SourceString": "Science Campus"
+  },
+  {
+    "Key": "POI_SwampCamp",
+    "SourceString": "Swamp Camp"
+  },
+  {
+    "Key": "POI_WaterFacility",
+    "SourceString": "Water Facility"
+  },
+  {
+    "Key": "POI_WaterfallLab",
+    "SourceString": "Waterfall Lab"
+  },
+  {
+    "Key": "POI_WestLandingPad",
+    "SourceString": "West Collection Point"
+  },
+  {
+    "Key": "POI_WoodcutterCamp",
+    "SourceString": "Woodcutter Camp"
+  },
+  {
+    "Key": "POI_XenoArcheologySite",
+    "SourceString": "Xeno-archeology Site"
+  },
+  {
+    "Key": "",
+    "SourceString": ""
+  },
+  {
+    "Key": "Location_StormSurge",
+    "SourceString": "StormSurge"
+  },
+  {
+    "Key": "",
+    "SourceString": ""
+  },
+  {
+    "Key": "MAP03_GlowingWaterCave",
+    "SourceString": "Glowing Water Cave"
+  },
+  {
+    "Key": "MAP03_GlowWormCave",
+    "SourceString": "Glow Worm Cave"
+  },
+  {
+    "Key": "MAP03_KorolevMain",
+    "SourceString": "Korolev Main"
+  },
+  {
+    "Key": "MAP03_OsirisMain",
+    "SourceString": "Osiris Main"
+  },
+  {
+    "Key": "MAP03_NaturalAtrium",
+    "SourceString": "Natural Atrium"
+  },
+  {
+    "Key": "MAP03_Caverns",
+    "SourceString": "Caverns"
+  },
+  {
+    "Key": "MAP03_InvertedTriangleStaircase",
+    "SourceString": "Inverted Triangle Staircase"
+  },
+  {
+    "Key": "MAP03_AbyssShaft",
+    "SourceString": "Abyss Shaft"
+  },
+  {
+    "Key": "MAP03_MiningSite",
+    "SourceString": "Mining Site"
+  },
+  {
+    "Key": "MAP03_AlienQuarry",
+    "SourceString": "Alien Quarry"
+  },
+  {
+    "Key": "MAP03_CultistOutpost",
+    "SourceString": "Cultist Area"
+  },
+  {
+    "Key": "MAP03_KorolevOutpost1",
+    "SourceString": "Korolev Outpost 1"
+  },
+  {
+    "Key": "MAP03_OsirisOutpost1",
+    "SourceString": "Osiris Outpost 1"
+  },
+  {
+    "Key": "MAP03_CrystalCave",
+    "SourceString": "Crystal Cave"
+  },
+  {
+    "Key": "MAP03_KorolevOutpost2",
+    "SourceString": "Korolev Outpost 2"
+  },
+  {
+    "Key": "MAP03_OsirisOutpost2",
+    "SourceString": "Osiris Outpost 2"
+  },
+  {
+    "Key": "",
+    "SourceString": ""
+  },
+  {
+    "Key": "MAP02_Starport",
+    "SourceString": "Starport"
+  },
+  {
+    "Key": "AreaDifficulty_1",
+    "SourceString": "Low Danger"
+  },
+  {
+    "Key": "AreaDifficulty_2",
+    "SourceString": "Moderate Danger"
+  },
+  {
+    "Key": "AreaDifficulty_3",
+    "SourceString": "High Danger"
+  },
+  {
+    "Key": "AreaDifficulty_4",
+    "SourceString": "Very High Danger"
+  },
+  {
+    "Key": "AreaDifficulty_5",
+    "SourceString": "Extreme Danger"
+  }
+]
