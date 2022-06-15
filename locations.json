@@ -610,5 +610,129 @@
   {
     "Key": "AreaDifficulty_5",
     "SourceString": "Extreme Danger"
+  },
+  {
+    "Key": "UI_Info",
+    "SourceString": "Warning - These items cannot be returned"
+  },
+  {
+    "Key": "Outcome_Success",
+    "SourceString": "Deposited items"
+  },
+  {
+    "Key": "Outcome_NoDeadDropObjective",
+    "SourceString": "No Dead Drop Objective"
+  },
+  {
+    "Key": "Outcome_WrongItems",
+    "SourceString": "Wrong Items"
+  },
+  {
+    "Key": "Outcome_WrongDeadDropLocation",
+    "SourceString": "Wrong Dead Drop Location"
+  },
+  {
+    "Key": "GenericDeadDropDescriptionText",
+    "SourceString": "Deposit {ItemName} at {LocationName}"
+  },
+  {
+    "Key": "Test_01_Name",
+    "SourceString": "Testing Dead Drop 01 Location"
+  },
+  {
+    "Key": "Map01_EastEvac_DrillStorageHut",
+    "SourceString": "Drill Storage Hut"
+  },
+  {
+    "Key": "Map01_EastEvac_EvacRamp",
+    "SourceString": "Evac Ramp"
+  },
+  {
+    "Key": "Map01_EastEvac_CabinRoof",
+    "SourceString": "Cabin Roof"
+  },
+  {
+    "Key": "Map01_EastEvac_LithTank",
+    "SourceString": "Lithium Tank"
+  },
+  {
+    "Key": "Map01_EastEvac_KorolevContainer",
+    "SourceString": "Korolev Container"
+  },
+  {
+    "Key": "Map01_EastEvac_EvacCrane",
+    "SourceString": "Landing Pad Crane"
+  },
+  {
+    "Key": "Map01_EastEvac_UndergroundStairwell",
+    "SourceString": "Underground Stairwell"
+  },
+  {
+    "Key": "Map01_EastEvac_UndergroundElevator",
+    "SourceString": "Deep Underground Elevator"
+  },
+  {
+    "Key": "Map01_EastEvac_SolarRoof",
+    "SourceString": "Roof Solar Panels"
+  },
+  {
+    "Key": "Map01_CenterBase_Office",
+    "SourceString": "Main Office"
+  },
+  {
+    "Key": "Map01_CenterBase_GateC",
+    "SourceString": "Gate C"
+  },
+  {
+    "Key": "Map01_CenterBase_GateA",
+    "SourceString": "Gate A"
+  },
+  {
+    "Key": "Map01_CommsBase_Satellite",
+    "SourceString": "Satellite Dish"
+  },
+  {
+    "Key": "Map01_CommsBase_Tower",
+    "SourceString": "Comms Tower"
+  },
+  {
+    "Key": "Map01_SwampCamp",
+    "SourceString": "Swamp Skeleton"
+  },
+  {
+    "Key": "Map01_WaterfallLab",
+    "SourceString": "Waterfall Lab"
+  },
+  {
+    "Key": "Map02_GreensProspect_Fullfilment",
+    "SourceString": "Fulfilment Center"
+  },
+  {
+    "Key": "Map02_GreensProspect_Office",
+    "SourceString": "Garage Office"
+  },
+  {
+    "Key": "Map02_GreensProspect_Stockpile",
+    "SourceString": "Stockpile"
+  },
+  {
+    "Key": "Map02_NutronFarms_Office",
+    "SourceString": "Nutrion Office"
+  },
+  {
+    "Key": "Map02_NutronFarms_StorageRoom",
+    "SourceString": "Storage Room"
+  },
+  {
+    "Key": "Map02_PinnacleLab",
+    "SourceString": "Pinnacle Lab"
+  },
+  {
+    "Key": "Map02_StarportAdmin_Cafeteria",
+    "SourceString": "Cafeteria"
+  },
+  {
+    "Key": "Map02_StarportAdmin_ServerRoom",
+    "SourceString": "Server Room"
   }
 ]
