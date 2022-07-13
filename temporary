@@ -1,0 +1,4322 @@
+{
+  "Activities_Contract_Easy-KOR-Minerals-1_Name": {
+    "SourceString": "Veltecite Run I",
+    "Comment": "",
+    "Other": ""
+  },
+  "Activities_Contract_Easy-KOR-Minerals-1_Description": {
+    "SourceString": "Use your Pickaxe or a Mining Tool to mine minerals for Flawed Veltecite\nUsing a Mineral Scanner will help in finding mineral deposits in rocky areas or dig sites",
+    "Comment": "",
+    "Other": ""
+  },
+  "Activities_Contract_Easy-KOR-Minerals-1_Objective": {
+    "SourceString": "Acquire Flawed Veltecite",
+    "Comment": "",
+    "Other": ""
+  },
+  "Activities_Contract_Medium-KOR-Minerals-1_Name": {
+    "SourceString": "Veltecite Run II",
+    "Comment": "",
+    "Other": ""
+  },
+  "Activities_Contract_Medium-KOR-Minerals-1_Description": {
+    "SourceString": "Use your Pickaxe or a Mining Tool to mine minerals for Flawed Veltecite\nUsing a Mineral Scanner will help in finding mineral deposits in rocky areas or dig sites",
+    "Comment": "",
+    "Other": ""
+  },
+  "Activities_Contract_Medium-KOR-Minerals-1_Objective": {
+    "SourceString": "Acquire Flawed Veltecite",
+    "Comment": "",
+    "Other": ""
+  },
+  "Activities_Contract_Hard-KOR-Minerals-1_Name": {
+    "SourceString": "Veltecite Run III",
+    "Comment": "",
+    "Other": ""
+  },
+  "Activities_Contract_Hard-KOR-Minerals-1_Description": {
+    "SourceString": "Use your Pickaxe or a Mining Tool to mine minerals for Flawed Veltecite\nUsing a Mineral Scanner will help in finding mineral deposits in rocky areas or dig sites",
+    "Comment": "",
+    "Other": ""
+  },
+  "Activities_Contract_Hard-KOR-Minerals-1_Objective": {
+    "SourceString": "Acquire Flawed Veltecite",
+    "Comment": "",
+    "Other": ""
+  },
+  "": {
+    "SourceString": "",
+    "Comment": "",
+    "Other": ""
+  },
+  "Activities_Contract_Easy-KOR-Minerals-2_Name": {
+    "SourceString": "Crystal Frenzy I",
+    "Comment": "",
+    "Other": ""
+  },
+  "Activities_Contract_Easy-KOR-Minerals-2_Description": {
+    "SourceString": "Use your Pickaxe or a Mining Tool to mine minerals for Cloudy Veltecite\nUsing a Mineral Scanner will help in finding mineral deposits in rocky areas or dig sites",
+    "Comment": "",
+    "Other": ""
+  },
+  "Activities_Contract_Easy-KOR-Minerals-2_Objective": {
+    "SourceString": "Acquire Cloudy Veltecite",
+    "Comment": "",
+    "Other": ""
+  },
+  "Activities_Contract_Medium-KOR-Minerals-2_Name": {
+    "SourceString": "Crystal Frenzy II",
+    "Comment": "",
+    "Other": ""
+  },
+  "Activities_Contract_Medium-KOR-Minerals-2_Description": {
+    "SourceString": "Use your Pickaxe or a Mining Tool to mine minerals for Clear Veltecite\nUsing a Mineral Scanner will help in finding mineral deposits in rocky areas or dig sites",
+    "Comment": "",
+    "Other": ""
+  },
+  "Activities_Contract_Medium-KOR-Minerals-2_Objective": {
+    "SourceString": "Acquire Clear Veltecite",
+    "Comment": "",
+    "Other": ""
+  },
+  "Activities_Contract_Hard-KOR-Minerals-2_Name": {
+    "SourceString": "Crystal Frenzy III",
+    "Comment": "",
+    "Other": ""
+  },
+  "Activities_Contract_Hard-KOR-Minerals-2_Description": {
+    "SourceString": "Use your Pickaxe or a Mining Tool to mine minerals for Pure Veltecite\nUsing a Mineral Scanner will help in finding mineral deposits in rocky areas or dig sites",
+    "Comment": "",
+    "Other": ""
+  },
+  "Activities_Contract_Hard-KOR-Minerals-2_Objective": {
+    "SourceString": "Acquire Pure Veltecite",
+    "Comment": "",
+    "Other": ""
+  },
+  "Activities_Contract_Hard-KOR-Minerals-3_Name": {
+    "SourceString": "Geologist",
+    "Comment": "",
+    "Other": ""
+  },
+  "Activities_Contract_Hard-KOR-Minerals-3_Description": {
+    "SourceString": "Search for glowing Polonium deposits within an active storm and extract them using your pickaxe or mining tool",
+    "Comment": "",
+    "Other": ""
+  },
+  "Activities_Contract_Hard-KOR-Minerals-3_Objective": {
+    "SourceString": "Acquire Polonium",
+    "Comment": "",
+    "Other": ""
+  },
+  "Activities_Contract_Easy-ICA-BossHunt-1_Name": {
+    "SourceString": "Big Game Hunter I",
+    "Comment": "",
+    "Other": ""
+  },
+  "Activities_Contract_Easy-ICA-BossHunt-1_Description": {
+    "SourceString": "Bring back an Alpha Crusher Skull\nAlpha Crushers are attracted to Alpha Crusher bait\nPrint or buy it and place it at a nest",
+    "Comment": "",
+    "Other": ""
+  },
+  "Activities_Contract_Easy-ICA-BossHunt-1_Objective": {
+    "SourceString": "Aquire Alpha Crusher Skulls",
+    "Comment": "",
+    "Other": ""
+  },
+  "Activities_Contract_Medium-ICA-BossHunt-1_Name": {
+    "SourceString": "Big Game Hunter II",
+    "Comment": "",
+    "Other": ""
+  },
+  "Activities_Contract_Medium-ICA-BossHunt-1_Description": {
+    "SourceString": "Bring back Alpha Crusher Skulls\nAlpha Crushers are attracted to Alpha Crusher bait\nPrint or buy it and place it at a nest",
+    "Comment": "",
+    "Other": ""
+  },
+  "Activities_Contract_Medium-ICA-BossHunt-1_Objective": {
+    "SourceString": "Aquire Alpha Crusher Skulls",
+    "Comment": "",
+    "Other": ""
+  },
+  "Activities_Contract_Hard-ICA-BossHunt-1_Name": {
+    "SourceString": "Big Game Hunter III",
+    "Comment": "",
+    "Other": ""
+  },
+  "Activities_Contract_Hard-ICA-BossHunt-1_Description": {
+    "SourceString": "Bring back Alpha Crusher Skulls\nAlpha Crushers are attracted to Alpha Crusher bait\nPrint or buy it and place it at a nest",
+    "Comment": "",
+    "Other": ""
+  },
+  "Activities_Contract_Hard-ICA-BossHunt-1_Objective": {
+    "SourceString": "Aquire Alpha Crusher Skulls",
+    "Comment": "",
+    "Other": ""
+  },
+  "Activities_Contract_Easy-Osiris-Zeal-1_Name": {
+    "SourceString": "Incompletable - Zealot I",
+    "Comment": "",
+    "Other": ""
+  },
+  "Activities_Contract_Easy-Osiris-Zeal-1_Description": {
+    "SourceString": "",
+    "Comment": "",
+    "Other": ""
+  },
+  "Activities_Contract_Medium-Osiris-Zeal-1_Name": {
+    "SourceString": "Incompletable - Zealot II",
+    "Comment": "",
+    "Other": ""
+  },
+  "Activities_Contract_Medium-Osiris-Zeal-1_Description": {
+    "SourceString": "",
+    "Comment": "",
+    "Other": ""
+  },
+  "Activities_Contract_Hard-Osiris-Zeal-1_Name": {
+    "SourceString": "Incompletable - Zealot III",
+    "Comment": "",
+    "Other": ""
+  },
+  "Activities_Contract_Hard-Osiris-Zeal-1_Description": {
+    "SourceString": "",
+    "Comment": "",
+    "Other": ""
+  },
+  "Activities_Contract_Easy-Osiris-Brightcaps-1_Name": {
+    "SourceString": "Naturalist I",
+    "Comment": "",
+    "Other": ""
+  },
+  "Activities_Contract_Easy-Osiris-Brightcaps-1_Description": {
+    "SourceString": "Bring back Brightcap Mushrooms\nBrightcaps tend to grow in swampy areas\nLook out for Ticks, these explosive bugs feed on them",
+    "Comment": "",
+    "Other": ""
+  },
+  "Activities_Contract_Easy-Osiris-Brightcaps-1_Objective": {
+    "SourceString": "Collect Brightcap Mushrooms",
+    "Comment": "",
+    "Other": ""
+  },
+  "Activities_Contract_Medium-Osiris-Brightcaps-1_Name": {
+    "SourceString": "Naturalist II",
+    "Comment": "",
+    "Other": ""
+  },
+  "Activities_Contract_Medium-Osiris-Brightcaps-1_Description": {
+    "SourceString": "Bring back Brightcap Mushrooms\nBrightcaps tend to grow in swampy areas\nLook out for Ticks, these explosive bugs feed on them",
+    "Comment": "",
+    "Other": ""
+  },
+  "Activities_Contract_Medium-Osiris-Brightcaps-1_Objective": {
+    "SourceString": "Collect Brightcap Mushrooms",
+    "Comment": "",
+    "Other": ""
+  },
+  "Activities_Contract_Hard-Osiris-Brightcaps-1_Name": {
+    "SourceString": "Naturalist III",
+    "Comment": "",
+    "Other": ""
+  },
+  "Activities_Contract_Hard-Osiris-Brightcaps-1_Description": {
+    "SourceString": "Bring back Brightcap Mushrooms\nBrightcaps tend to grow in swampy areas\nLook out for Ticks, these explosive bugs feed on them",
+    "Comment": "",
+    "Other": ""
+  },
+  "Activities_Contract_Hard-Osiris-Brightcaps-1_Objective": {
+    "SourceString": "Collect Brightcap Mushrooms",
+    "Comment": "",
+    "Other": ""
+  },
+  "Activities_Contract_Hard-Osiris-Brightcaps-2_Name": {
+    "SourceString": "Storm Botanist",
+    "Comment": "",
+    "Other": ""
+  },
+  "Activities_Contract_Hard-Osiris-Brightcaps-2_Description": {
+    "SourceString": "Bring back Glowy Brightcap Mushrooms\nThese can only be harvested in swampy areas during the storm\nKeep an eye out for their purple tint",
+    "Comment": "",
+    "Other": ""
+  },
+  "Activities_Contract_Hard-Osiris-Brightcaps-2_Objective": {
+    "SourceString": "Collect Glowy Brightcap Mushrooms",
+    "Comment": "",
+    "Other": ""
+  },
+  "Activities_Contract_Easy-Osiris-Hunt-1_Name": {
+    "SourceString": "Pest Control I",
+    "Comment": "",
+    "Other": ""
+  },
+  "Activities_Contract_Easy-Osiris-Hunt-1_Description": {
+    "SourceString": "Hunt down hostile creatures and bring back proof of kill\nBe careful, some beasts are tough!",
+    "Comment": "",
+    "Other": ""
+  },
+  "Activities_Contract_Easy-Osiris-Hunt-1_Objective": {
+    "SourceString": "Acquire Spinal Bases",
+    "Comment": "",
+    "Other": ""
+  },
+  "Activities_Contract_Medium-Osiris-Hunt-1_Name": {
+    "SourceString": "Pest Control II",
+    "Comment": "",
+    "Other": ""
+  },
+  "Activities_Contract_Medium-Osiris-Hunt-1_Description": {
+    "SourceString": "Hunt down hostile creatures and bring back proof of kill\nBe careful, some beasts are tough!",
+    "Comment": "",
+    "Other": ""
+  },
+  "Activities_Contract_Medium-Osiris-Hunt-1_Objective": {
+    "SourceString": "Acquire Spinal Bases",
+    "Comment": "",
+    "Other": ""
+  },
+  "Activities_Contract_Hard-Osiris-Hunt-1_Name": {
+    "SourceString": "Pest Control III",
+    "Comment": "",
+    "Other": ""
+  },
+  "Activities_Contract_Hard-Osiris-Hunt-1_Description": {
+    "SourceString": "Hunt down hostile creatures and bring back proof of kill\nBe careful, some beasts are tough!",
+    "Comment": "",
+    "Other": ""
+  },
+  "Activities_Contract_Hard-Osiris-Hunt-1_Objective": {
+    "SourceString": "Acquire Spinal Bases",
+    "Comment": "",
+    "Other": ""
+  },
+  "Activities_Contract_Hard-Osiris-Hunt-2_Name": {
+    "SourceString": "Storm Biologist",
+    "Comment": "",
+    "Other": ""
+  },
+  "Activities_Contract_Hard-Osiris-Hunt-2_Description": {
+    "SourceString": "Hunt down hostile creatures during an active storm and bring back proof of kill\nBe careful, some beasts are tough, especially while having to dodge lightning strikes!",
+    "Comment": "",
+    "Other": ""
+  },
+  "Activities_Contract_Hard-Osiris-Hunt-2_Objective": {
+    "SourceString": "Acquire Charged Spinal Bases",
+    "Comment": "",
+    "Other": ""
+  },
+  "Activities_Contract_Easy-KOR-LaserDrill-1_Name": {
+    "SourceString": "Heavy Driller I",
+    "Comment": "",
+    "Other": ""
+  },
+  "Activities_Contract_Easy-KOR-LaserDrill-1_Description": {
+    "SourceString": "Complete a Laser Drill operation\nUse a Laser Drill Beacon on large Letium finds to call down a Drill, then activate and protect it\nThe drill can carry you home if you remain inside when it takes off",
+    "Comment": "",
+    "Other": ""
+  },
+  "Activities_Contract_Medium-KOR-LaserDrill-1_Name": {
+    "SourceString": "Heavy Driller II",
+    "Comment": "",
+    "Other": ""
+  },
+  "Activities_Contract_Medium-KOR-LaserDrill-1_Description": {
+    "SourceString": "Complete a Laser Drill operation\nUse a Laser Drill Beacon on large Letium finds to call down a Drill, then activate and protect it\nThe drill can carry you home if you remain inside when it takes off",
+    "Comment": "",
+    "Other": ""
+  },
+  "Activities_Contract_Hard-KOR-LaserDrill-1_Name": {
+    "SourceString": "Heavy Driller III",
+    "Comment": "",
+    "Other": ""
+  },
+  "Activities_Contract_Hard-KOR-LaserDrill-1_Description": {
+    "SourceString": "Complete a Laser Drill operation\nUse a Laser Drill Beacon on large Letium finds to call down a Drill, then activate and protect it\nThe drill can carry you home if you remain inside when it takes off",
+    "Comment": "",
+    "Other": ""
+  },
+  "Activities_Contract_Easy-ICA-PowerUp-1_Name": {
+    "SourceString": "Batteries Not Included I",
+    "Comment": "",
+    "Other": ""
+  },
+  "Activities_Contract_Easy-ICA-PowerUp-1_Description": {
+    "SourceString": "Access the contents of a Secure Facility\nYou will need to find Heavy Batteries on the surface to power up the facility",
+    "Comment": "",
+    "Other": ""
+  },
+  "Activities_Contract_Medium-ICA-PowerUp-1_Name": {
+    "SourceString": "Batteries Not Included II",
+    "Comment": "",
+    "Other": ""
+  },
+  "Activities_Contract_Medium-ICA-PowerUp-1_Description": {
+    "SourceString": "Access the contents of a Secure Facility\nYou will need to find Heavy Batteries on the surface to power up the facility",
+    "Comment": "",
+    "Other": ""
+  },
+  "Activities_Contract_Hard-ICA-PowerUp-1_Name": {
+    "SourceString": "Batteries Not Included III",
+    "Comment": "",
+    "Other": ""
+  },
+  "Activities_Contract_Hard-ICA-PowerUp-1_Description": {
+    "SourceString": "Access the contents of a Secure Facility\nYou will need to find Heavy Batteries on the surface to power up the facility",
+    "Comment": "",
+    "Other": ""
+  },
+  "Activities_Contract_Easy-ICA-Uplink-1_Name": {
+    "SourceString": "Big Data I",
+    "Comment": "",
+    "Other": ""
+  },
+  "Activities_Contract_Easy-ICA-Uplink-1_Description": {
+    "SourceString": "Plug in a Data Drive at an Uplink Station (often located near large satellite dishes)\nEmpty Data Drives can be purchased if you have none",
+    "Comment": "",
+    "Other": ""
+  },
+  "Activities_Contract_Easy-ICA-Uplink-1_Objective": {
+    "SourceString": "Retrieve a Drive with Uncommon Data",
+    "Comment": "",
+    "Other": ""
+  },
+  "Activities_Contract_Medium-ICA-Uplink-1_Name": {
+    "SourceString": "Big Data II",
+    "Comment": "",
+    "Other": ""
+  },
+  "Activities_Contract_Medium-ICA-Uplink-1_Description": {
+    "SourceString": "Plug in a Data Drive at an Uplink Station (often located near large satellite dishes)\nEmpty Data Drives can be purchased if you have none",
+    "Comment": "",
+    "Other": ""
+  },
+  "Activities_Contract_Medium-ICA-Uplink-1_Objective": {
+    "SourceString": "Retrieve a Drive with Rare Data",
+    "Comment": "",
+    "Other": ""
+  },
+  "Activities_Contract_Hard-ICA-Uplink-1_Name": {
+    "SourceString": "Big Data III",
+    "Comment": "",
+    "Other": ""
+  },
+  "Activities_Contract_Hard-ICA-Uplink-1_Description": {
+    "SourceString": "Plug in a Data Drive at an Uplink Station (often located near large satellite dishes)\nEmpty Data Drives can be purchased if you have none",
+    "Comment": "",
+    "Other": ""
+  },
+  "Activities_Contract_Hard-ICA-Uplink-1_Objective": {
+    "SourceString": "Retrieve a Drive with Epic Data",
+    "Comment": "",
+    "Other": ""
+  },
+  "Activities_Contract_Easy-Osiris-Data-1_Name": {
+    "SourceString": "Incompletable - Research Retrieval I",
+    "Comment": "",
+    "Other": ""
+  },
+  "Activities_Contract_Easy-Osiris-Data-1_Description": {
+    "SourceString": "",
+    "Comment": "",
+    "Other": ""
+  },
+  "Activities_Contract_Medium-Osiris-Data-1_Name": {
+    "SourceString": "Incompletable - Research Retrieval II",
+    "Comment": "",
+    "Other": ""
+  },
+  "Activities_Contract_Medium-Osiris-Data-1_Description": {
+    "SourceString": "",
+    "Comment": "",
+    "Other": ""
+  },
+  "Activities_Contract_Hard-Osiris-Data-1_Name": {
+    "SourceString": "Incompletable - Research Retrieval III",
+    "Comment": "",
+    "Other": ""
+  },
+  "Activities_Contract_Hard-Osiris-Data-1_Description": {
+    "SourceString": "",
+    "Comment": "",
+    "Other": ""
+  },
+  "Activities_Contract_Easy-ICA-StormSurge-1_Name": {
+    "SourceString": "Power Crystals I",
+    "Comment": "",
+    "Other": ""
+  },
+  "Activities_Contract_Easy-ICA-StormSurge-1_Description": {
+    "SourceString": "Retrieve crystal samples created by Storm Surges\nYou can locate a Storm Surge by the violent lightning strikes and the red tint of its radiation",
+    "Comment": "",
+    "Other": ""
+  },
+  "Activities_Contract_Easy-ICA-StormSurge-1_Objective": {
+    "SourceString": "Collect Surge Crystal samples",
+    "Comment": "",
+    "Other": ""
+  },
+  "Activities_Contract_Medium-ICA-StormSurge-1_Name": {
+    "SourceString": "Power Crystals II",
+    "Comment": "",
+    "Other": ""
+  },
+  "Activities_Contract_Medium-ICA-StormSurge-1_Description": {
+    "SourceString": "Retrieve crystal samples created by Storm Surges\nYou can locate a Storm Surge by the violent lightning strikes and the red tint of its radiation",
+    "Comment": "",
+    "Other": ""
+  },
+  "Activities_Contract_Medium-ICA-StormSurge-1_Objective": {
+    "SourceString": "Collect Surge Crystal samples",
+    "Comment": "",
+    "Other": ""
+  },
+  "Activities_Contract_Hard-ICA-StormSurge-1_Name": {
+    "SourceString": "Power Crystals III",
+    "Comment": "",
+    "Other": ""
+  },
+  "Activities_Contract_Hard-ICA-StormSurge-1_Description": {
+    "SourceString": "Retrieve crystal samples created by Storm Surges\nYou can locate a Storm Surge by the violent lightning strikes and the red tint of its radiation",
+    "Comment": "",
+    "Other": ""
+  },
+  "Activities_Contract_Hard-ICA-StormSurge-1_Objective": {
+    "SourceString": "Collect Surge Crystal samples",
+    "Comment": "",
+    "Other": ""
+  },
+  "Activities_Contract_Medium-Osiris-Tracking-1_Name": {
+    "SourceString": "Live Sample",
+    "Comment": "",
+    "Other": ""
+  },
+  "Activities_Contract_Medium-Osiris-Tracking-1_Description": {
+    "SourceString": "Bring back a Blue Runner Egg\nFind Blue Runner tracks and follow them to their nest to steal an egg",
+    "Comment": "",
+    "Other": ""
+  },
+  "Activities_Contract_Medium-Osiris-Tracking-1_Objective": {
+    "SourceString": "Acquire Blue Runner Egg",
+    "Comment": "",
+    "Other": ""
+  },
+  "Activities_Contract_Hard-Osiris-Minerals-1_Name": {
+    "SourceString": "Mineral Samples",
+    "Comment": "",
+    "Other": ""
+  },
+  "Activities_Contract_Hard-Osiris-Minerals-1_Description": {
+    "SourceString": "Buy and equip a mineral scanner\nScan for minerals on rocky areas or dig sites\nUse your pickaxe to mine minerals for a chance to find Cloudy Veltecite",
+    "Comment": "",
+    "Other": ""
+  },
+  "Activities_Contract_Hard-Osiris-Minerals-1_Objective": {
+    "SourceString": "Acquire Cloudy Veltecite",
+    "Comment": "",
+    "Other": ""
+  },
+  "Activities_Contract_Hard-KOR-Uplink-1_Name": {
+    "SourceString": "Proprietary Information",
+    "Comment": "",
+    "Other": ""
+  },
+  "Activities_Contract_Hard-KOR-Uplink-1_Description": {
+    "SourceString": "Buy and equip a common Data Drive\nPlug the Data Drive into one of the Uplink stations on Fortuna III to gather valuable data\nRepeat until you find epic data",
+    "Comment": "",
+    "Other": ""
+  },
+  "Activities_Contract_Hard-KOR-Uplink-1_Objective": {
+    "SourceString": "Aquire a Data Drive with Epic Data",
+    "Comment": "",
+    "Other": ""
+  },
+  "Activities_Contract_Medium-KOR-StormSurge-1_Name": {
+    "SourceString": "Surge Energy",
+    "Comment": "",
+    "Other": ""
+  },
+  "Activities_Contract_Medium-KOR-StormSurge-1_Description": {
+    "SourceString": "On Fortuna III look for red storms\nInside the storm area, collect red storm surge crystals\nBe careful, lethal lightning strikes fill the Spike area!",
+    "Comment": "",
+    "Other": ""
+  },
+  "Activities_Contract_Medium-KOR-StormSurge-1_Objective": {
+    "SourceString": "Collect Surge Crystal samples",
+    "Comment": "",
+    "Other": ""
+  },
+  "Activities_Contract_Easy-Osiris-Materials-1_Name": {
+    "SourceString": "Bad Optics I",
+    "Comment": "",
+    "Other": ""
+  },
+  "Activities_Contract_Easy-Osiris-Materials-1_Description": {
+    "SourceString": "Bring back Optic Glass, often found in abandoned structures",
+    "Comment": "",
+    "Other": ""
+  },
+  "Activities_Contract_Easy-Osiris-Materials-1_Objective": {
+    "SourceString": "Acquire Optic Glass",
+    "Comment": "",
+    "Other": ""
+  },
+  "Activities_Contract_Medium-Osiris-Materials-1_Name": {
+    "SourceString": "Bad Optics II",
+    "Comment": "",
+    "Other": ""
+  },
+  "Activities_Contract_Medium-Osiris-Materials-1_Description": {
+    "SourceString": "Bring back Optic Glass, often found in abandoned structures",
+    "Comment": "",
+    "Other": ""
+  },
+  "Activities_Contract_Medium-Osiris-Materials-1_Objective": {
+    "SourceString": "Acquire Optic Glass",
+    "Comment": "",
+    "Other": ""
+  },
+  "Activities_Contract_Hard-Osiris-Materials-1_Name": {
+    "SourceString": "Bad Optics III",
+    "Comment": "",
+    "Other": ""
+  },
+  "Activities_Contract_Hard-Osiris-Materials-1_Description": {
+    "SourceString": "Bring back Optic Glass, often found in abandoned structures",
+    "Comment": "",
+    "Other": ""
+  },
+  "Activities_Contract_Hard-Osiris-Materials-1_Objective": {
+    "SourceString": "Acquire Optic Glass",
+    "Comment": "",
+    "Other": ""
+  },
+  "Activities_Contract_Easy-KOR-Materials-1_Name": {
+    "SourceString": "Ordnance Disposal I",
+    "Comment": "",
+    "Other": ""
+  },
+  "Activities_Contract_Easy-KOR-Materials-1_Description": {
+    "SourceString": "Bring back Derelict Explosives, often found in abandoned structures",
+    "Comment": "",
+    "Other": ""
+  },
+  "Activities_Contract_Easy-KOR-Materials-1_Objective": {
+    "SourceString": "Acquire Derelict Explosives",
+    "Comment": "",
+    "Other": ""
+  },
+  "Activities_Contract_Medium-KOR-Materials-1_Name": {
+    "SourceString": "Ordnance Disposal II",
+    "Comment": "",
+    "Other": ""
+  },
+  "Activities_Contract_Medium-KOR-Materials-1_Description": {
+    "SourceString": "Bring back Derelict Explosives, often found in abandoned structures",
+    "Comment": "",
+    "Other": ""
+  },
+  "Activities_Contract_Medium-KOR-Materials-1_Objective": {
+    "SourceString": "Acquire Derelict Explosives",
+    "Comment": "",
+    "Other": ""
+  },
+  "Activities_Contract_Hard-KOR-Materials-1_Name": {
+    "SourceString": "Ordnance Disposal III",
+    "Comment": "",
+    "Other": ""
+  },
+  "Activities_Contract_Hard-KOR-Materials-1_Description": {
+    "SourceString": "Bring back Derelict Explosives, often found in abandoned structures",
+    "Comment": "",
+    "Other": ""
+  },
+  "Activities_Contract_Hard-KOR-Materials-1_Objective": {
+    "SourceString": "Acquire Derelict Explosives",
+    "Comment": "",
+    "Other": ""
+  },
+  "Activities_Contract_Easy-ICA-Materials-1_Name": {
+    "SourceString": "Made ICA Strong I",
+    "Comment": "",
+    "Other": ""
+  },
+  "Activities_Contract_Easy-ICA-Materials-1_Description": {
+    "SourceString": "Bring back Metallic Alloys, often found in abandoned structures",
+    "Comment": "",
+    "Other": ""
+  },
+  "Activities_Contract_Easy-ICA-Materials-1_Objective": {
+    "SourceString": "Acquire Metallic Alloys",
+    "Comment": "",
+    "Other": ""
+  },
+  "Activities_Contract_Medium-ICA-Materials-1_Name": {
+    "SourceString": "Made ICA Strong II",
+    "Comment": "",
+    "Other": ""
+  },
+  "Activities_Contract_Medium-ICA-Materials-1_Description": {
+    "SourceString": "Bring back Metallic Alloys, often found in abandoned structures",
+    "Comment": "",
+    "Other": ""
+  },
+  "Activities_Contract_Medium-ICA-Materials-1_Objective": {
+    "SourceString": "Acquire Metallic Alloys",
+    "Comment": "",
+    "Other": ""
+  },
+  "Activities_Contract_Hard-ICA-Materials-1_Name": {
+    "SourceString": "Made ICA Strong III",
+    "Comment": "",
+    "Other": ""
+  },
+  "Activities_Contract_Hard-ICA-Materials-1_Description": {
+    "SourceString": "Bring back Metallic Alloys, often found in abandoned structures",
+    "Comment": "",
+    "Other": ""
+  },
+  "Activities_Contract_Hard-ICA-Materials-1_Objective": {
+    "SourceString": "Acquire Metallic Alloys",
+    "Comment": "",
+    "Other": ""
+  },
+  "Activities_Contract_Easy-Osiris-Meteor-1_Name": {
+    "SourceString": "Falling Stars I",
+    "Comment": "",
+    "Other": ""
+  },
+  "Activities_Contract_Easy-Osiris-Meteor-1_Description": {
+    "SourceString": "Bring back Meteor Shards, mined from smaller fragments of a Meteor Shower Event",
+    "Comment": "",
+    "Other": ""
+  },
+  "Activities_Contract_Easy-Osiris-Meteor-1_Objective": {
+    "SourceString": "Acquire Meteor Shards",
+    "Comment": "",
+    "Other": ""
+  },
+  "Activities_Contract_Medium-Osiris-Meteor-1_Name": {
+    "SourceString": "Falling Stars II",
+    "Comment": "",
+    "Other": ""
+  },
+  "Activities_Contract_Medium-Osiris-Meteor-1_Description": {
+    "SourceString": "Bring back a Meteor Core, mined from the Main Meteor of a Meteor Shower Event",
+    "Comment": "",
+    "Other": ""
+  },
+  "Activities_Contract_Medium-Osiris-Meteor-1_Objective": {
+    "SourceString": "Acquire a Meteor Core",
+    "Comment": "",
+    "Other": ""
+  },
+  "Activities_Contract_Hard-Osiris-Meteor-1_Name": {
+    "SourceString": "Falling Stars III",
+    "Comment": "",
+    "Other": ""
+  },
+  "Activities_Contract_Hard-Osiris-Meteor-1_Description": {
+    "SourceString": "Bring back Meteor Cores, mined from the Main Meteor of Meteor Shower Events",
+    "Comment": "",
+    "Other": ""
+  },
+  "Activities_Contract_Hard-Osiris-Meteor-1_Objective": {
+    "SourceString": "Acquire Meteor Cores",
+    "Comment": "",
+    "Other": ""
+  },
+  "Activities_Contract_Easy-KOR_FTUE-Minerals-1_Name": {
+    "SourceString": "Nickel Run",
+    "Comment": "",
+    "Other": ""
+  },
+  "Activities_Contract_Easy-KOR_FTUE-Minerals-1_ShortDescription": {
+    "SourceString": "You can equip a Mineral Scanner via your Tool Wheel to help you find Nickel Veins",
+    "Comment": "",
+    "Other": ""
+  },
+  "Activities_Contract_Easy-KOR_FTUE-Minerals-1_Description": {
+    "SourceString": "Drop down to Fortuna, mine Nickel Veins using your Pickaxe and bring us back some Nickel.",
+    "Comment": "",
+    "Other": ""
+  },
+  "Activities_Contract_Easy-KOR_FTUE-Minerals-1_Objective": {
+    "SourceString": "Acquire Nickel",
+    "Comment": "",
+    "Other": ""
+  },
+  "Activities_Contract_Easy-Osiris_FTUE-Gather-1_Name": {
+    "SourceString": "A Simple Delivery",
+    "Comment": "",
+    "Other": ""
+  },
+  "Activities_Contract_Easy-Osiris_FTUE-Gather-1_ShortDescription": {
+    "SourceString": "",
+    "Comment": "",
+    "Other": ""
+  },
+  "Activities_Contract_Easy-Osiris_FTUE-Gather-1_Description": {
+    "SourceString": "Drop down to Fortuna, search in and around buildings for some Compound Sheets and deliver them back to Osiris",
+    "Comment": "",
+    "Other": ""
+  },
+  "Activities_Contract_Easy-Osiris_FTUE-Gather-1_Objective_1": {
+    "SourceString": "Acquire Compound Sheets",
+    "Comment": "",
+    "Other": ""
+  },
+  "Activities_Contract_Easy-ICA_FTUE-Hunt-1_Name": {
+    "SourceString": "A simple Hunt",
+    "Comment": "",
+    "Other": ""
+  },
+  "Activities_Contract_Easy-ICA_FTUE-Hunt-1_ShortDescription": {
+    "SourceString": "Try not to alert too many creatures at once, they can quickly overwhelm you",
+    "Comment": "",
+    "Other": ""
+  },
+  "Activities_Contract_Easy-ICA_FTUE-Hunt-1_Description": {
+    "SourceString": "To prove your worth, drop down to Fortuna, look for a Strider and kill it in the name of the ICA",
+    "Comment": "",
+    "Other": ""
+  },
+  "Activities_Contract_Easy-ICA_FTUE-Minerals-1_Objective": {
+    "SourceString": "Kill a Strider",
+    "Comment": "",
+    "Other": ""
+  },
+  "Medium-KOR-Conditional-1_Name": {
+    "SourceString": "Radio Silence",
+    "Comment": "",
+    "Other": ""
+  },
+  "Medium-KOR-Conditional-1_Description": {
+    "SourceString": "Clear the Comms Tower facility on Brightsands of hostile creature",
+    "Comment": "",
+    "Other": ""
+  },
+  "Medium-KOR-Conditional-1_Objective": {
+    "SourceString": "Kill hostile creatures at the Comms Tower",
+    "Comment": "",
+    "Other": ""
+  },
+  "Medium-KOR-Conditional-2_Name": {
+    "SourceString": "Exit Denied",
+    "Comment": "",
+    "Other": ""
+  },
+  "Medium-KOR-Conditional-2_Description": {
+    "SourceString": "Kill a rival prospector at the Bright Sands East Collection Point",
+    "Comment": "",
+    "Other": ""
+  },
+  "Medium-KOR-Conditional-2_Objective": {
+    "SourceString": "Kill a rival prospector at East Collection Point",
+    "Comment": "",
+    "Other": ""
+  },
+  "Medium-KOR-Conditional-3_Name": {
+    "SourceString": "Moving Rocks",
+    "Comment": "",
+    "Other": ""
+  },
+  "Medium-KOR-Conditional-3_Description": {
+    "SourceString": "Kill hostile creatures at the Bright Sands Dig Site and retrieve Nickel",
+    "Comment": "",
+    "Other": ""
+  },
+  "Medium-KOR-Conditional-3_Objective_1": {
+    "SourceString": "Kill hostile creatures at Dig Site",
+    "Comment": "",
+    "Other": ""
+  },
+  "Medium-KOR-Conditional-3_Objective_2": {
+    "SourceString": "Acquire Nickel",
+    "Comment": "",
+    "Other": ""
+  },
+  "Medium-KOR-Conditional-4_Name": {
+    "SourceString": "Spring Cleaning",
+    "Comment": "",
+    "Other": ""
+  },
+  "Medium-KOR-Conditional-4_Description": {
+    "SourceString": "Clear the Bright Sands Vaccine Labs of hostile creatures and retrieve their Spinal Bases",
+    "Comment": "",
+    "Other": ""
+  },
+  "Medium-KOR-Conditional-4_Objective_1": {
+    "SourceString": "Kill hostile creatures at Vaccine Labs",
+    "Comment": "",
+    "Other": ""
+  },
+  "Medium-KOR-Conditional-4_Objective_2": {
+    "SourceString": "Acquire Spinal Bases",
+    "Comment": "",
+    "Other": ""
+  },
+  "Medium-Osiris-Conditional-1_Name": {
+    "SourceString": "Lab Rats",
+    "Comment": "",
+    "Other": ""
+  },
+  "Medium-Osiris-Conditional-1_Description": {
+    "SourceString": "Clear the Waterfall Lab on Bright Sands of hostile creatures",
+    "Comment": "",
+    "Other": ""
+  },
+  "Medium-Osiris-Conditional-1_Objective": {
+    "SourceString": "Kill hostile creatures at Waterfall Lab",
+    "Comment": "",
+    "Other": ""
+  },
+  "Medium-Osiris-Conditional-2_Name": {
+    "SourceString": "A House of Learning",
+    "Comment": "",
+    "Other": ""
+  },
+  "Medium-Osiris-Conditional-2_Description": {
+    "SourceString": "Clear the Science Campus on Bright Sands of hostile creatures",
+    "Comment": "",
+    "Other": ""
+  },
+  "Medium-Osiris-Conditional-2_Objective": {
+    "SourceString": "Kill hostile creatures at Science Campus",
+    "Comment": "",
+    "Other": ""
+  },
+  "Medium-Osiris-Conditional-3_Name": {
+    "SourceString": "Muddied Waters",
+    "Comment": "",
+    "Other": ""
+  },
+  "Medium-Osiris-Conditional-3_Description": {
+    "SourceString": "Kill hostile creatures at the Bright Sands Swamp Camp and retrieve Brightcaps",
+    "Comment": "",
+    "Other": ""
+  },
+  "Medium-Osiris-Conditional-3_Objective_1": {
+    "SourceString": "Kill hostile creatures at Swamp Camp",
+    "Comment": "",
+    "Other": ""
+  },
+  "Medium-Osiris-Conditional-3_Objective_2": {
+    "SourceString": "Acquire Brightcap Mushrooms",
+    "Comment": "",
+    "Other": ""
+  },
+  "Medium-Osiris-Conditional-4_Name": {
+    "SourceString": "The Big Blue Tree",
+    "Comment": "",
+    "Other": ""
+  },
+  "Medium-Osiris-Conditional-4_Description": {
+    "SourceString": "Kill hostile creatures at the Crashed Ship on Bright Sands retrieve their Spinal Bases",
+    "Comment": "",
+    "Other": ""
+  },
+  "Medium-Osiris-Conditional-4_Objective_1": {
+    "SourceString": "Kill hostile creatures at Crashed Ship",
+    "Comment": "",
+    "Other": ""
+  },
+  "Medium-Osiris-Conditional-4_Objective_2": {
+    "SourceString": "Acquire Spinal Bases",
+    "Comment": "",
+    "Other": ""
+  },
+  "Medium-ICA-Conditional-1_Name": {
+    "SourceString": "Sending a Message",
+    "Comment": "",
+    "Other": ""
+  },
+  "Medium-ICA-Conditional-1_Description": {
+    "SourceString": "Kill a rival prospector at the Bright Sands Comms Tower",
+    "Comment": "",
+    "Other": ""
+  },
+  "Medium-ICA-Conditional-1_Objective": {
+    "SourceString": "Kill a rival prospector at the Comms Tower",
+    "Comment": "",
+    "Other": ""
+  },
+  "Medium-ICA-Conditional-2_Name": {
+    "SourceString": "Our House",
+    "Comment": "",
+    "Other": ""
+  },
+  "Medium-ICA-Conditional-2_Description": {
+    "SourceString": "Kill two rival prospectors at the Bright Sands Base Camp",
+    "Comment": "",
+    "Other": ""
+  },
+  "Medium-ICA-Conditional-2_Objective": {
+    "SourceString": "Kill rival prospectors at Base Camp",
+    "Comment": "",
+    "Other": ""
+  },
+  "Medium-ICA-Conditional-3_Name": {
+    "SourceString": "Salvage Run",
+    "Comment": "",
+    "Other": ""
+  },
+  "Medium-ICA-Conditional-3_Description": {
+    "SourceString": "Kill hostile creatures at the Bright Sands Dig Site and retrieve Compound Sheets",
+    "Comment": "",
+    "Other": ""
+  },
+  "Medium-ICA-Conditional-3_Objective_1": {
+    "SourceString": "Kill creatures at Dig Site",
+    "Comment": "",
+    "Other": ""
+  },
+  "Medium-ICA-Conditional-3_Objective_2": {
+    "SourceString": "Acquire Compound Sheets",
+    "Comment": "",
+    "Other": ""
+  },
+  "Medium-ICA-Conditional-4_Name": {
+    "SourceString": "Poor Upkeep",
+    "Comment": "",
+    "Other": ""
+  },
+  "Medium-ICA-Conditional-4_Description": {
+    "SourceString": "Kill hostile creatures at the Bright Sands Water Facility and the Power Plant next to Comms Tower",
+    "Comment": "",
+    "Other": ""
+  },
+  "Medium-ICA-Conditional-4_Objective_1": {
+    "SourceString": "Kill creatures at Water Facility",
+    "Comment": "",
+    "Other": ""
+  },
+  "Medium-ICA-Conditional-4_Objective_2": {
+    "SourceString": "Kill creatures at Power Plant",
+    "Comment": "",
+    "Other": ""
+  },
+  "Acquire-Nickel_Objective": {
+    "SourceString": "Deliver Nickel",
+    "Comment": "",
+    "Other": ""
+  },
+  "Acquire-PureNickel_Objective": {
+    "SourceString": "Deliver Altered Nickel",
+    "Comment": "",
+    "Other": ""
+  },
+  "Acquire-CommonVeltecite_Objective": {
+    "SourceString": "Deliver Flawed Veltecite",
+    "Comment": "",
+    "Other": ""
+  },
+  "Acquire-UncommonVeltecite_Objective": {
+    "SourceString": "Deliver Cloudy Veltecite",
+    "Comment": "",
+    "Other": ""
+  },
+  "Acquire-RareVeltecite_Objective": {
+    "SourceString": "Deliver Clear Veltecite",
+    "Comment": "",
+    "Other": ""
+  },
+  "Acquire-EpicVeltecite_Objective": {
+    "SourceString": "Deliver Pure Veltecite",
+    "Comment": "",
+    "Other": ""
+  },
+  "Acquire-LegendaryVeltecite_Objective": {
+    "SourceString": "Deliver Veltecite Hearts",
+    "Comment": "",
+    "Other": ""
+  },
+  "Acquire-FocusCrystal_Objective": {
+    "SourceString": "Deliver Focus Crystals",
+    "Comment": "",
+    "Other": ""
+  },
+  "Acquire-PureFocusCrystal_Objective": {
+    "SourceString": "Deliver Pure Focus Crystals",
+    "Comment": "",
+    "Other": ""
+  },
+  "Acquire-BrittleTitanOre_Objective": {
+    "SourceString": "Deliver Brittle Titan Ore",
+    "Comment": "",
+    "Other": ""
+  },
+  "Acquire-TitanOre_Objective": {
+    "SourceString": "Deliver Titan Ore",
+    "Comment": "",
+    "Other": ""
+  },
+  "Acquire-Polonium_Objective": {
+    "SourceString": "Deliver Polonium",
+    "Comment": "",
+    "Other": ""
+  },
+  "Acquire-SpareCasing_Objective": {
+    "SourceString": "Deliver Hardened Metals",
+    "Comment": "",
+    "Other": ""
+  },
+  "Acquire-PolymetallicPrefabricate_Objective": {
+    "SourceString": "Deliver Polymetallic Prefabricate",
+    "Comment": "",
+    "Other": ""
+  },
+  "Acquire-DerelictExplosives_Objective": {
+    "SourceString": "Deliver Derelict Explosives",
+    "Comment": "",
+    "Other": ""
+  },
+  "Acquire-CompoundSheets_Objective": {
+    "SourceString": "Deliver Compound Sheets",
+    "Comment": "",
+    "Other": ""
+  },
+  "Acquire-BallBearings_Objective": {
+    "SourceString": "Deliver Ball Bearings",
+    "Comment": "",
+    "Other": ""
+  },
+  "Acquire-HydraulicPistons_Objective": {
+    "SourceString": "Deliver Hydraulic Pistons",
+    "Comment": "",
+    "Other": ""
+  },
+  "Acquire-Alloys_Objective": {
+    "SourceString": "Deliver Metallic Alloys",
+    "Comment": "",
+    "Other": ""
+  },
+  "Acquire-MagneticFieldStabilizer_Objective": {
+    "SourceString": "Deliver Magnetic Field Stabilizers",
+    "Comment": "",
+    "Other": ""
+  },
+  "Acquire-CombatCpuBlue_Objective": {
+    "SourceString": "Deliver Zero Systems CPUs",
+    "Comment": "",
+    "Other": ""
+  },
+  "Acquire-CombatCpuRed_Objective": {
+    "SourceString": "Deliver Master Unit CPUs",
+    "Comment": "",
+    "Other": ""
+  },
+  "Acquire-MiniatureReactor_Objective": {
+    "SourceString": "Deliver Miniature Reactors",
+    "Comment": "",
+    "Other": ""
+  },
+  "Acquire-BlueWood_Objective": {
+    "SourceString": "Deliver Azure Tree Bark",
+    "Comment": "",
+    "Other": ""
+  },
+  "Acquire-ShardSlicer_Objective": {
+    "SourceString": "Deliver Shard Slicers",
+    "Comment": "",
+    "Other": ""
+  },
+  "Acquire-Autoloader_Objective": {
+    "SourceString": "Deliver Autoloaders",
+    "Comment": "",
+    "Other": ""
+  },
+  "Acquire-OpticGlass_Objective": {
+    "SourceString": "Deliver Optic Glass",
+    "Comment": "",
+    "Other": ""
+  },
+  "Acquire-Gyroscopes_Objective": {
+    "SourceString": "Deliver Gyroscopes",
+    "Comment": "",
+    "Other": ""
+  },
+  "Acquire-ShockAbsorber_Objective": {
+    "SourceString": "Deliver Shock absorbers",
+    "Comment": "",
+    "Other": ""
+  },
+  "Acquire-Multitools_Objective": {
+    "SourceString": "Deliver Multitools",
+    "Comment": "",
+    "Other": ""
+  },
+  "Acquire-DataPads_Objective": {
+    "SourceString": "Deliver Interactive Screens",
+    "Comment": "",
+    "Other": ""
+  },
+  "Acquire-PrintResin_Objective": {
+    "SourceString": "Deliver Print Resin",
+    "Comment": "",
+    "Other": ""
+  },
+  "Acquire-OldCurrency_Objective": {
+    "SourceString": "Deliver Old Currency",
+    "Comment": "",
+    "Other": ""
+  },
+  "Acquire-CopperWire_Objective": {
+    "SourceString": "Deliver Copper Wire",
+    "Comment": "",
+    "Other": ""
+  },
+  "Acquire-AluminumParts_Objective": {
+    "SourceString": "Deliver Scrap Metal",
+    "Comment": "",
+    "Other": ""
+  },
+  "Acquire-Fertilizer_Objective": {
+    "SourceString": "Deliver \"Magic-GROW\" Fertilizer",
+    "Comment": "",
+    "Other": ""
+  },
+  "Acquire-BrightcapMushroom_Objective": {
+    "SourceString": "Deliver Brightcap Mushrooms",
+    "Comment": "",
+    "Other": ""
+  },
+  "Acquire-GlowyBrightcapMushroom_Objective": {
+    "SourceString": "Deliver Glowy Brightcap Mushrooms",
+    "Comment": "",
+    "Other": ""
+  },
+  "Acquire-BlueRunnerEgg_Objective": {
+    "SourceString": "Deliver Blue Runner Eggs",
+    "Comment": "",
+    "Other": ""
+  },
+  "Acquire-MeteorFragments_Objective": {
+    "SourceString": "Deliver Meteor Fragments",
+    "Comment": "",
+    "Other": ""
+  },
+  "Acquire-MeteorCores_Objective": {
+    "SourceString": "Deliver Meteor Cores",
+    "Comment": "",
+    "Other": ""
+  },
+  "Acquire-UncommonHardDrive_Objective": {
+    "SourceString": "Deliver Uncommon Data Drives",
+    "Comment": "",
+    "Other": ""
+  },
+  "Acquire-RareHardDrive_Objective": {
+    "SourceString": "Deliver Rare Data Drives",
+    "Comment": "",
+    "Other": ""
+  },
+  "Acquire-EpicHardDrive_Objective": {
+    "SourceString": "Deliver Valuable Data Drives",
+    "Comment": "",
+    "Other": ""
+  },
+  "Acquire-LegendaryHardDrive_Objective": {
+    "SourceString": "Deliver Unique Data Drives",
+    "Comment": "",
+    "Other": ""
+  },
+  "Acquire-HardenedBoneAlloy_Objective": {
+    "SourceString": "Deliver Hardened Bone Plates",
+    "Comment": "",
+    "Other": ""
+  },
+  "Acquire-GenericCreatureDrop_Objective": {
+    "SourceString": "Deliver Spinal Bases",
+    "Comment": "",
+    "Other": ""
+  },
+  "Acquire-StormyCreatureDrop_Objective": {
+    "SourceString": "Deliver Charged Spinal Bases",
+    "Comment": "",
+    "Other": ""
+  },
+  "Acquire-CreatureClaws_Objective": {
+    "SourceString": "Deliver Creature Claws",
+    "Comment": "",
+    "Other": ""
+  },
+  "Acquire-NeurotoxicGlands_Objective": {
+    "SourceString": "Deliver Toxic Glands",
+    "Comment": "",
+    "Other": ""
+  },
+  "Acquire-CrusherTongues_Objective": {
+    "SourceString": "Defeat Crushers and deliver their Tongues",
+    "Comment": "",
+    "Other": ""
+  },
+  "Acquire-WaterPlant_Objective": {
+    "SourceString": "Deliver Waterweed Filaments",
+    "Comment": "",
+    "Other": ""
+  },
+  "Acquire-DesertPlant_Objective": {
+    "SourceString": "Deliver Dustblooms",
+    "Comment": "",
+    "Other": ""
+  },
+  "Acquire-IvyPlant_Objective": {
+    "SourceString": "Deliver Pale Ivy Blossoms",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW LOCA STRINGS FOR CA2 AND AFTER:": {
+    "SourceString": "",
+    "Comment": "",
+    "Other": ""
+  },
+  "Kill-Any-Creatures_Objective": {
+    "SourceString": "Hunt any Creatures",
+    "Comment": "",
+    "Other": ""
+  },
+  "Kill-Players_Objective": {
+    "SourceString": "Eliminate Prospectors",
+    "Comment": "",
+    "Other": ""
+  },
+  "Kill-Striders_Objective": {
+    "SourceString": "Hunt Striders",
+    "Comment": "",
+    "Other": ""
+  },
+  "Kill-Rattlers_Objective": {
+    "SourceString": "Hunt Rattlers",
+    "Comment": "",
+    "Other": ""
+  },
+  "Kill-Weremoles_Objective": {
+    "SourceString": "Hunt Marauders",
+    "Comment": "",
+    "Other": ""
+  },
+  "Kill-Crushers_Objective": {
+    "SourceString": "Hunt Crushers",
+    "Comment": "",
+    "Other": ""
+  },
+  "Kill-Creatures-Jungle_Objective": {
+    "SourceString": "Hunt Creatures in the Jungle on Bright Sands",
+    "Comment": "",
+    "Other": ""
+  },
+  "Kill-Creatures-AssaultRifle_Objective": {
+    "SourceString": "Hunt Creatures using an Assault Rifle",
+    "Comment": "",
+    "Other": ""
+  },
+  "Kill-Creatures-Shotgun_Objective": {
+    "SourceString": "Hunt Creatures using a Shotgun",
+    "Comment": "",
+    "Other": ""
+  },
+  "Kill-Creatures-SniperRifle_Objective": {
+    "SourceString": "Hunt Creatures using a Sniper Rifle",
+    "Comment": "",
+    "Other": ""
+  },
+  "Kill-Weremoles-SniperRifle_Objective": {
+    "SourceString": "Hunt Marauders using a Sniper Rifle",
+    "Comment": "",
+    "Other": ""
+  },
+  "Kill-Creatures-SMG_Objective": {
+    "SourceString": "Hunt Creatures using an SMG",
+    "Comment": "",
+    "Other": ""
+  },
+  "Kill-Creatures-Pistol_Objective": {
+    "SourceString": "Hunt Creatures using a Pistol",
+    "Comment": "",
+    "Other": ""
+  },
+  "Kill-Rattlers-Shotgun_Objective": {
+    "SourceString": "Hunt Rattlers using a Shotgun",
+    "Comment": "",
+    "Other": ""
+  },
+  "Kill-Creatures-DigSite_Objective": {
+    "SourceString": "Hunt Creatures at the Dig Site on Bright Sands",
+    "Comment": "",
+    "Other": ""
+  },
+  "Kill-Rattlers-CommBase_Objective": {
+    "SourceString": "Hunt Rattlers at the Comms Tower on Bright Sands",
+    "Comment": "",
+    "Other": ""
+  },
+  "Kill-Striders-CommBase_Objective": {
+    "SourceString": "Hunt Striders at the Comms Tower on Bright Sands",
+    "Comment": "",
+    "Other": ""
+  },
+  "Kill-Striders-SMG_Objective": {
+    "SourceString": "Hunt Striders using an SMG",
+    "Comment": "",
+    "Other": ""
+  },
+  "Kill-Creatures-ScienceCampus_Objective": {
+    "SourceString": "Hunt Creatures at the Science Campus on Bright Sands",
+    "Comment": "",
+    "Other": ""
+  },
+  "Kill-Creatures-VaccineLabs_Objective": {
+    "SourceString": "Hunt Creatures at the Vaccine Labs on Bright Sands",
+    "Comment": "",
+    "Other": ""
+  },
+  "Kill-Weremoles-SMG_Objective": {
+    "SourceString": "Hunt Marauders using an SMG",
+    "Comment": "",
+    "Other": ""
+  },
+  "Kill-Creatures-WaterfallLab_Objective": {
+    "SourceString": "Hunt Creatures at the Waterfall Lab on Bright Sands",
+    "Comment": "",
+    "Other": ""
+  },
+  "Kill-Striders-CrashedShip_Objective": {
+    "SourceString": "Hunt Striders at the Crashed Ship on Bright Sands",
+    "Comment": "",
+    "Other": ""
+  },
+  "Kill-Rattlers-CrashedShip_Objective": {
+    "SourceString": "Hunt Rattlers at the Crashed Ship on Bright Sands",
+    "Comment": "",
+    "Other": ""
+  },
+  "Kill-Weremoles-CrashedShip_Objective": {
+    "SourceString": "Hunt Marauders at the Crashed Ship on Bright Sands",
+    "Comment": "",
+    "Other": ""
+  },
+  "Kill-Crushers-AssaultRifle-SniperRifle_Objective": {
+    "SourceString": "Hunt Crushers using an Assault Rifle or Sniper Rifle",
+    "Comment": "",
+    "Other": ""
+  },
+  "Kill-Players-KorolevWeapon_Objective": {
+    "SourceString": "Eliminate Prospectors using a Korolev Weapon",
+    "Comment": "",
+    "Other": ""
+  },
+  "Kill-Players-ICAWeapon_Objective": {
+    "SourceString": "Eliminate Prospectors using an ICA Weapon",
+    "Comment": "",
+    "Other": ""
+  },
+  "Kill-Players-OsirisWeapon_Objective": {
+    "SourceString": "Eliminate Prospectors using an Osiris Weapon",
+    "Comment": "",
+    "Other": ""
+  },
+  "Kill-Players-DigSite_Objective": {
+    "SourceString": "Eliminate a Prospector at the Dig Site on Bright Sands",
+    "Comment": "",
+    "Other": ""
+  },
+  "Kill-Players-Shotgun_Objective": {
+    "SourceString": "Eliminate Prospectors using a Shotgun",
+    "Comment": "",
+    "Other": ""
+  },
+  "Kill-Players-Pistols_Objective": {
+    "SourceString": "Eliminate Prospectors using a Pistol",
+    "Comment": "",
+    "Other": ""
+  },
+  "Kill-Players-AssaultRifle_Objective": {
+    "SourceString": "Eliminate Prospectors using an Assault Rifle",
+    "Comment": "",
+    "Other": ""
+  },
+  "Kill-Players-KBRLongshot_Objective": {
+    "SourceString": "Eliminate Prospectors using the KBR Longshot",
+    "Comment": "",
+    "Other": ""
+  },
+  "Kill-Weremoles-KBRLongshot_Objective": {
+    "SourceString": "Hunt Marauders using the KBR Longshot",
+    "Comment": "",
+    "Other": ""
+  },
+  "Kill-Players-Advocate_Objective": {
+    "SourceString": "Eliminate Players using the Advocate Assault Rifle",
+    "Comment": "",
+    "Other": ""
+  },
+  "Kill-Rattlers-Advocate_Objective": {
+    "SourceString": "Hunt Rattlers using the Advocate Assault Rifle",
+    "Comment": "",
+    "Other": ""
+  },
+  "Kill-Striders-Advocate_Objective": {
+    "SourceString": "Hunt Striders using the Advocate Assault Riffle",
+    "Comment": "",
+    "Other": ""
+  },
+  "Kill-Players-CentralBaseCamp_Objective": {
+    "SourceString": "Eliminate Prospectors at the Central Base Camp on Bright Sands",
+    "Comment": "",
+    "Other": ""
+  },
+  "Kill-Players-Jungle_Objective": {
+    "SourceString": "Eliminate Prospectors in the Jungle on Bright Sands",
+    "Comment": "",
+    "Other": ""
+  },
+  "Kill-Players-WaterfallLab_Objective": {
+    "SourceString": "Eliminate Prospectors at the Waterfall Lab on Bright Sands",
+    "Comment": "",
+    "Other": ""
+  },
+  "Kill-Players-VaccineLabs_Objective": {
+    "SourceString": "Eliminate Prospectors at the Vaccine Labs on Bright Sands",
+    "Comment": "",
+    "Other": ""
+  },
+  "Kill-Players-Lake_Objective": {
+    "SourceString": "Eliminate Prospectors at the Lake on Bright Sands",
+    "Comment": "",
+    "Other": ""
+  },
+  "Kill-Players-Basilisk_Objective": {
+    "SourceString": "Eliminate Prospectors using the Basilisk Sniper Rifle",
+    "Comment": "",
+    "Other": ""
+  },
+  "Kill-BlastBeetles_Objective": {
+    "SourceString": "Hunt Blast Ticks",
+    "Comment": "",
+    "Other": ""
+  },
+  "Kill-AcidBeetles_Objective": {
+    "SourceString": "Hunt Acid Ticks",
+    "Comment": "",
+    "Other": ""
+  },
+  "Kill-Creatures-Lake_Objective": {
+    "SourceString": "Hunt Creatures at the Lake on Bright Sands",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Easy-KOR-Gather-1_Name": {
+    "SourceString": "Reinforcing the old Mine",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Easy-KOR-Gather-1_ShortDescription": {
+    "SourceString": "",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Easy-KOR-Gather-1_Description": {
+    "SourceString": "There you are Prospector. We need you to bring us Compound Sheets so we can reinforce the metal supports of one of our old mines on Fortuna III.",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Easy-KOR-Gather-2_Name": {
+    "SourceString": "Mining Machinery",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Easy-KOR-Gather-2_ShortDescription": {
+    "SourceString": "",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Easy-KOR-Gather-2_Description": {
+    "SourceString": "We need Ball Bearings to build new mining machinery. Go get us some!",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Easy-KOR-Gather-3_Name": {
+    "SourceString": "Ship Repairs",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Easy-KOR-Gather-3_ShortDescription": {
+    "SourceString": "",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Easy-KOR-Gather-3_Description": {
+    "SourceString": "One of our drop ships was damaged by the Storm. We need Magnetic Field Stabilizers and Polymetallic Prefabricate for the repairs.",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Easy-KOR-Gather-4_Name": {
+    "SourceString": "New Mining Tools",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Easy-KOR-Gather-4_ShortDescription": {
+    "SourceString": "",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Easy-KOR-Gather-4_Description": {
+    "SourceString": "We are producing new Mining Tools for new Prospectors and need Hydraulic Pistons and Hardened Metals for it. You know what to do.",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Medium-KOR-Gather-1_Name": {
+    "SourceString": "Explosive Excavation",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Medium-KOR-Gather-1_ShortDescription": {
+    "SourceString": "",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Medium-KOR-Gather-1_Description": {
+    "SourceString": "One of our mines collapsed with valuable equipment inside. Bring us Derelict Explosives so we can blast it free!",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Medium-KOR-Gather-2_Name": {
+    "SourceString": "Mining Bot",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Medium-KOR-Gather-2_ShortDescription": {
+    "SourceString": "",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Medium-KOR-Gather-2_Description": {
+    "SourceString": "Our engineers have designed an autonomous mining bot. Bring us a Zero Systems CPU and some Ball Bearings for the prototype.",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Medium-KOR-Gather-3_Name": {
+    "SourceString": "None of your Business",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Medium-KOR-Gather-3_ShortDescription": {
+    "SourceString": "Hunt Blast Ticks and Acid Ticks for Toxic Glands",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Medium-KOR-Gather-3_Description": {
+    "SourceString": "Prospector. We need Toxic Glands. Don't ask questions, just go acquire some and bring them back with maximum discretion.",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Medium-KOR-Gather-4_Name": {
+    "SourceString": "Business Class",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Medium-KOR-Gather-4_ShortDescription": {
+    "SourceString": "",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Medium-KOR-Gather-4_Description": {
+    "SourceString": "My personal ship needs some... comfort improvements. Bring me Magnetic Field Stabilizers, Compound Sheets and Polymetallic Prefabricate.",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Medium-KOR-Gather-5_Name": {
+    "SourceString": "Insufficient Processing Power",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Medium-KOR-Gather-5_ShortDescription": {
+    "SourceString": "",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Medium-KOR-Gather-5_Description": {
+    "SourceString": "Prospector! The Zero Systems CPU you brought us for the mining bot was not powerful enough. We'll need a Master Unit CPU instead.",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Hard-KOR-Gather-1_Name": {
+    "SourceString": "Excavator Improvements",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Hard-KOR-Gather-1_ShortDescription": {
+    "SourceString": "",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Hard-KOR-Gather-1_Description": {
+    "SourceString": "The suspension on our mining excavators need improvements to handle rocky terrain. We need Multitools, Ball Bearings and Hydraulic Pistons.",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Hard-KOR-Gather-2_Name": {
+    "SourceString": "A new type of Alloy",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Hard-KOR-Gather-2_ShortDescription": {
+    "SourceString": "Hunt Marauders for Hardened Bone Plates",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Hard-KOR-Gather-2_Description": {
+    "SourceString": "Our scientists are confident they can create a new, extremely durable alloy from Hardened Bone Plates and Compound Sheets! Bring us what we need.",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Hard-KOR-Gather-3_Name": {
+    "SourceString": "Automated Security",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Hard-KOR-Gather-3_ShortDescription": {
+    "SourceString": "",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Hard-KOR-Gather-3_Description": {
+    "SourceString": "We will have to build new turrets to help protect our mining sites and landing pads. Bring us Zero Systems CPUs and Hardened Metals.",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Hard-KOR-Gather-4_Name": {
+    "SourceString": "Energy Crisis",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Hard-KOR-Gather-4_ShortDescription": {
+    "SourceString": "",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Hard-KOR-Gather-4_Description": {
+    "SourceString": "Veltecite supplies are low, but we need energy! Get your hands on one of those fabled ICA Miniature Reactors and deliver it to us. Discreetly.",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Hard-KOR-Gather-5_Name": {
+    "SourceString": "Classified I",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Hard-KOR-Gather-5_ShortDescription": {
+    "SourceString": "",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Hard-KOR-Gather-5_Description": {
+    "SourceString": "Prospector! We need Derelict Explosives, Master Unit CPUs and Compound Sheets. Dont ask questions, just go acquire the materials.",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Easy-ICA-Gather-1_Name": {
+    "SourceString": "Cooking Equipment",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Easy-ICA-Gather-1_ShortDescription": {
+    "SourceString": "",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Easy-ICA-Gather-1_Description": {
+    "SourceString": "Prospector, we need you to bring us Scrap Metal so we can produce more cooking equipment for the ICA community kitchen.",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Easy-ICA-Gather-2_Name": {
+    "SourceString": "Medical Supplies",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Easy-ICA-Gather-2_ShortDescription": {
+    "SourceString": "",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Easy-ICA-Gather-2_Description": {
+    "SourceString": "Our community hospital is running out of gauze to make bandages. Drop down to the surface and bring us some Polymetallic Prefabricate!",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Easy-ICA-Gather-3_Name": {
+    "SourceString": "Patching up the Station Hull",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Easy-ICA-Gather-3_ShortDescription": {
+    "SourceString": "",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Easy-ICA-Gather-3_Description": {
+    "SourceString": "Prospector! There is a small fracture in the station's hull. It's not huge, but please go get us the Alloys needed to patch it up.",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Easy-ICA-Gather-4_Name": {
+    "SourceString": "Espionnage",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Easy-ICA-Gather-4_ShortDescription": {
+    "SourceString": "Hunt any Creatures for Spinal Bases",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Easy-ICA-Gather-4_Description": {
+    "SourceString": "There you are, Prospector. Osiris seems to be after those Spinal Bases from Fortuna III creatures. We are not sure why, so bring us a sample.",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Easy-ICA-Gather-5_Name": {
+    "SourceString": "Water Filtration System",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Easy-ICA-Gather-5_ShortDescription": {
+    "SourceString": "",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Easy-ICA-Gather-5_Description": {
+    "SourceString": "We need to do some repairs to our water filtration system. Bring us Polymetallic Prefabricate and Compound Sheets.",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Medium-ICA-Gather-1_Name": {
+    "SourceString": "New Beds",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Medium-ICA-Gather-1_ShortDescription": {
+    "SourceString": "",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Medium-ICA-Gather-1_Description": {
+    "SourceString": "The ICA community housing project has been expanding fast, and we need Azure Tree Bark and Alloys to build some new beds.",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Medium-ICA-Gather-2_Name": {
+    "SourceString": "Scrapping Station Improvements",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Medium-ICA-Gather-2_ShortDescription": {
+    "SourceString": "",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Medium-ICA-Gather-2_Description": {
+    "SourceString": "Prospector, we need to make improvements to our scrapping station. For this, bring us Shard Slicers, a Zero Systems CPU and Hardened Metals.",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Medium-ICA-Gather-3_Name": {
+    "SourceString": "Station Defense",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Medium-ICA-Gather-3_ShortDescription": {
+    "SourceString": "",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Medium-ICA-Gather-3_Description": {
+    "SourceString": "The targeting systems of our station defense systems have been damaged by Storm radiation. Bring us Autoloaders and Optic Glass for the repairs.",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Medium-ICA-Gather-4_Name": {
+    "SourceString": "Air Lock Upgrades",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Medium-ICA-Gather-4_ShortDescription": {
+    "SourceString": "",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Medium-ICA-Gather-4_Description": {
+    "SourceString": "Our engineers designed a safer airlock system that should reduce fatalities. We need Hardened Metals, Alloys and Polymetallic Prefabricate.",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Medium-ICA-Gather-and-PvE-1_Name": {
+    "SourceString": "Alternative Energies",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Medium-ICA-Gather-and-PvE-1_ShortDescription": {
+    "SourceString": "Hunt any Creatures and deliver their Spinal Bases",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Medium-ICA-Gather-and-PvE-1_Description": {
+    "SourceString": "Prospector! The Spinal Bases you brought us proved to be quite the source of energy. We need more. Go hunt Creatures and bring us their Spinal Bases.",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Hard-ICA-Gather-1_Name": {
+    "SourceString": "Sabotage",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Hard-ICA-Gather-1_ShortDescription": {
+    "SourceString": "",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Hard-ICA-Gather-1_Description": {
+    "SourceString": "Prospector! Those Korolev simpletons are drilling near one of our Uplinks. Bring us Zero Systems CPUs and Derelict Explosives. You know why.",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Hard-ICA-Gather-2_Name": {
+    "SourceString": "Old Currency",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Hard-ICA-Gather-2_ShortDescription": {
+    "SourceString": "",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Hard-ICA-Gather-2_Description": {
+    "SourceString": "We have received reports of Old Currency being found on Fortuna. That stuff is pretty valuable. Bring us some!",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Hard-ICA-Gather-3_Name": {
+    "SourceString": "Recoil Compensation",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Hard-ICA-Gather-3_ShortDescription": {
+    "SourceString": "",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Hard-ICA-Gather-3_Description": {
+    "SourceString": "Upgrades to our rifles are long overdue. To go into production with improved Recoil Compensators, we need Shock Absorbers and Compound Sheets.",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Hard-ICA-Gather-and-PvE-4_Name": {
+    "SourceString": "Espionnage II",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Hard-ICA-Gather-and-PvE-4_ShortDescription": {
+    "SourceString": "Hunt any Creatures and deliver their Spinal Bases",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Hard-ICA-Gather-and-PvE-4_Description": {
+    "SourceString": "Osiris is gaining an incredible amount of energy from Charged Spinal Bases. Go kill creatures to cut off their supply and get us some samples.",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Hard-ICA-Gather-5_Name": {
+    "SourceString": "New 3D Printer",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Hard-ICA-Gather-5_ShortDescription": {
+    "SourceString": "",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Hard-ICA-Gather-5_Description": {
+    "SourceString": "Prospector! To help us provide our troops with the gear and supplies they require, we need Shard Slicers and Autoloaders for a new 3D printer.",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Hard-ICA-Oil-1_Name": {
+    "SourceString": "Striking Big",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Hard-ICA-Oil-1_ShortDescription": {
+    "SourceString": "Craft some Oil Pump Beacons, search around Crescent Falls for Oil Fields and deploy a Pump on the biggest Oil Fountain you can find for maximum return!",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Hard-ICA-Oil-1_Description": {
+    "SourceString": "Damn it! We ran out of Fuel for our Radiation Shields here on the Station. And there's no replacement for Nanite Infused Crude Oil. You know what to do.",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Easy-Osiris-Gather-1_Name": {
+    "SourceString": "Spinal Bases",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Easy-Osiris-Gather-1_ShortDescription": {
+    "SourceString": "Hunt any Creatures on Fortuna for Spinal Bases",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Easy-Osiris-Gather-1_Description": {
+    "SourceString": "Prospector, we managed to extract valuable isotopes from the Spinal Bases of creatures on Fortuna III. Bring us more samples!",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Easy-Osiris-Gather-2_Name": {
+    "SourceString": "Lab equipment",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Easy-Osiris-Gather-2_ShortDescription": {
+    "SourceString": "",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Easy-Osiris-Gather-2_Description": {
+    "SourceString": "Improvements to our lab equipment are long overdue. Go get us Optic Glass for better microscopes!",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Medium-Osiris-Gather-1_Name": {
+    "SourceString": "Surveillance Center",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Medium-Osiris-Gather-1_ShortDescription": {
+    "SourceString": "",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Medium-Osiris-Gather-1_Description": {
+    "SourceString": "We want to expand our surveillance operations here on Prospect Station. Bring us Interactive Screens and Magnetic Field Stabilizers.",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Medium-Osiris-Gather-2_Name": {
+    "SourceString": "Gun Manufacturing",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Medium-Osiris-Gather-2_ShortDescription": {
+    "SourceString": "",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Medium-Osiris-Gather-2_Description": {
+    "SourceString": "Our material scientists found a way to use Copper Wires and Spinal Bases in the manufacturing process of energy rifles. Bring us some!",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Medium-Osiris-Gather-3_Name": {
+    "SourceString": "Research Drone Repairs",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Medium-Osiris-Gather-3_ShortDescription": {
+    "SourceString": "",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Medium-Osiris-Gather-3_Description": {
+    "SourceString": "One of our research drones got hit by Storm radiation, frying its flight stabilizers. Bring us Gyroscopes and Interactive Screens for the repairs.",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Hard-Osiris-Gather-1_Name": {
+    "SourceString": "Cretins",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Hard-Osiris-Gather-1_ShortDescription": {
+    "SourceString": "Hunt Blast Ticks and Acid Ticks for Toxic Glands",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Hard-Osiris-Gather-1_Description": {
+    "SourceString": "Don't ask me how, but those Korolev numbskulls managed to extract powerful toxins from Toxic Glands. We need some samples, Prospector!",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Hard-Osiris-Gather-2_Name": {
+    "SourceString": "Sensor Array Repairs",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Hard-Osiris-Gather-2_ShortDescription": {
+    "SourceString": "",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Hard-Osiris-Gather-2_Description": {
+    "SourceString": "A Marauder damaged one of our sensor arrays. Bring us Interactive Screens, Optic Glass and Polymetallic Prefabricate so we can fix it.",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Hard-Osiris-Gather-3_Name": {
+    "SourceString": "A new Energy Source?",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Hard-Osiris-Gather-3_ShortDescription": {
+    "SourceString": "Hunt any Creatures during an active Storm for Charged Spinal Bases",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Hard-Osiris-Gather-3_Description": {
+    "SourceString": "We've found a way to gain energy from Charged Spinal Bases from creatures affected by the Storm. We need some... and some Gyroscopes while you're down there.",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Hard-Osiris-Gather-4_Name": {
+    "SourceString": "Data Center Upgrades",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Hard-Osiris-Gather-4_ShortDescription": {
+    "SourceString": "",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Hard-Osiris-Gather-4_Description": {
+    "SourceString": "Turns out our data center was not powerful enough for the calculations needed for our energy experiment. Bring us Master Unit CPUs!",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Hard-Osiris-Gather-5_Name": {
+    "SourceString": "Keep the Experiment running",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Hard-Osiris-Gather-5_ShortDescription": {
+    "SourceString": "Hunt any Creatures during an active Storm for Charged Spinal Bases",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Hard-Osiris-Gather-5_Description": {
+    "SourceString": "Good news, Prospector! The experiment seems to be a success! Bring us more Charged Spinal Bases to keep it running!",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Hard-Osiris-Gather-6_Name": {
+    "SourceString": "Safety Measures",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Hard-Osiris-Gather-6_ShortDescription": {
+    "SourceString": "",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Hard-Osiris-Gather-6_Description": {
+    "SourceString": "Wonderful. The Meteor Core we acquired is powering our Drone Fleet nicely. But we need Gyroscopes and Autoloaders to stabilize the Reactor.",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Hard-Osiris-EliteCrusher-6_Name": {
+    "SourceString": "The Rarest Sample",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Hard-Osiris-EliteCrusher-6_ShortDescription": {
+    "SourceString": "Craft an Orbital Cannon Beacon, gear up and search Crescent Falls for the Mysterious Cave Entrance to bring down the Elite Crusher",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Hard-Osiris-EliteCrusher-6_Description": {
+    "SourceString": "Prospector. We need you to drop down there, venture into the Elite Crusher's Cave and hunt down the Specimen. Then bring us a Sample. Be careful.",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Easy-KOR-Mine-1_Name": {
+    "SourceString": "Flawed but useful",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Easy-KOR-Mine-1_ShortDescription": {
+    "SourceString": "Veltecite Veins can often be found around Waterfalls",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Easy-KOR-Mine-1_Description": {
+    "SourceString": "We are running out of Flawed Veltecite, one of our lower-grade energy sources. Bring us some more!",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Easy-KOR-Mine-3_Name": {
+    "SourceString": "Altered Nickel Supplies",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Easy-KOR-Mine-3_ShortDescription": {
+    "SourceString": "You can use a Mineral Scanner to help you find Nickel Veins",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Easy-KOR-Mine-3_Description": {
+    "SourceString": "Prospector. You have proven more useful than expected. Now go get us some Altered Nickel for our foundries.",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Easy-KOR-Mine-2_Name": {
+    "SourceString": "Brittle Titan Ore",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Easy-KOR-Mine-2_ShortDescription": {
+    "SourceString": "Titan Ore Veins can often be found in Caves and Mines",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Easy-KOR-Mine-2_Description": {
+    "SourceString": "Ah, there you are! We need Brittle Titan Ore, Prospector. Don't ask questions, just get us some.",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Easy-KOR-Mine-4_Name": {
+    "SourceString": "Cloudy with a Chance of Laser",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Easy-KOR-Mine-4_ShortDescription": {
+    "SourceString": "Veltecite Veins can often be found around Waterfalls",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Easy-KOR-Mine-4_Description": {
+    "SourceString": "We are once more in need of your skills, Prospector. This time, we need Cloudy Veltecite for the construction of a new Laser Drill.",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Medium-KOR-Mine-1_Name": {
+    "SourceString": "Clear Veltecite",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Medium-KOR-Mine-1_ShortDescription": {
+    "SourceString": "Veltecite Veins can often be found around Waterfalls",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Medium-KOR-Mine-1_Description": {
+    "SourceString": "The Veltecite you brought us the other day is already spent. We need more energy! Get us some Clear Veltecite this time!",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Medium-KOR-Mine-and-PvE-2_Name": {
+    "SourceString": "Time to Focus",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Medium-KOR-Mine-and-PvE-2_ShortDescription": {
+    "SourceString": "Crystal Veins can often be found in the Jungle",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Medium-KOR-Mine-and-PvE-2_Description": {
+    "SourceString": "One of our miners searching the Jungle for Focus Crystals was wounded by creatures. Go clear the area, and bring back Focus Crystals they should have.",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Medium-KOR-Mine-3_Name": {
+    "SourceString": "Pure Veltecite",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Medium-KOR-Mine-3_ShortDescription": {
+    "SourceString": "Veltecite Veins can often be found around Waterfalls",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Medium-KOR-Mine-3_Description": {
+    "SourceString": "The Clear Veltecite was an improvement, we gained much more energy from it, but we need more! See if you can get your hands on some Pure Veltecite.",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Medium-KOR-Mine-4_Name": {
+    "SourceString": "Titans of Industry",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Medium-KOR-Mine-4_ShortDescription": {
+    "SourceString": "Titan Ore Veins can often be found in Caves and Mines",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Medium-KOR-Mine-4_Description": {
+    "SourceString": "Scouts have found Titan Ore deposits on Fortuna III! Go see if the rumours are true and bring us samples. And some Altered Nickel, while you're at it.",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Medium-KOR-Mine-5_Name": {
+    "SourceString": "Crystal Frenzy",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Medium-KOR-Mine-5_ShortDescription": {
+    "SourceString": "",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Medium-KOR-Mine-5_Description": {
+    "SourceString": "We're working on a new type of laser for our latest mining platforms. For the lenses, we will need Clear Veltecite and Focus Crystals. Off you go!",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Hard-KOR-Mine-1_Name": {
+    "SourceString": "Geologist",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Hard-KOR-Mine-1_ShortDescription": {
+    "SourceString": "",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Hard-KOR-Mine-1_Description": {
+    "SourceString": "You got time for a job, Prospector? The samples you brought us weren't pure enough. Get us Pure Veltecite and some Pure Focus Crystals this time.",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Hard-KOR-Mine-2_Name": {
+    "SourceString": "Industry Secret",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Hard-KOR-Mine-2_ShortDescription": {
+    "SourceString": "",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Hard-KOR-Mine-2_Description": {
+    "SourceString": "Hm. Interesting. The Pure Focus Crystals you brought us worked perfectly for the new lenses. Bring us more! I can already taste Osiris' envy.",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Hard-KOR-Mine-3_Name": {
+    "SourceString": "Veltecite Hearts",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Hard-KOR-Mine-3_ShortDescription": {
+    "SourceString": "Veltecite Veins can often be found around Waterfalls",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Hard-KOR-Mine-3_Description": {
+    "SourceString": "Bring us some Veltecite Hearts, the highest purity of Veltecite, for us to experiment on.",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Hard-KOR-Mine-4_Name": {
+    "SourceString": "Laser Rifles",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Hard-KOR-Mine-4_ShortDescription": {
+    "SourceString": "Focus Crystal Veins can often be found in the Jungle",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Hard-KOR-Mine-4_Description": {
+    "SourceString": "We are prototyping a new laser rifle that can penetrate even Crusher skulls. Get us Focus Crystals and Pure Focus Crystals for the lenses.",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Hard-KOR-Mine-5_Name": {
+    "SourceString": "Classified II",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Hard-KOR-Mine-5_ShortDescription": {
+    "SourceString": "Veltecite Veins can often be found around Waterfalls",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Hard-KOR-Mine-5_Description": {
+    "SourceString": "Ah, Prospector. We need Clear Veltecite and Derelict Explosives for an experiment. I cannot say any more and expect utmost discretion.",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Hard-KOR-Mine-6_Name": {
+    "SourceString": "Unlimited Power?",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Hard-KOR-Mine-6_ShortDescription": {
+    "SourceString": "Veltecite Veins can often be found around Waterfalls",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Hard-KOR-Mine-6_Description": {
+    "SourceString": "Fine. I guess you need to know. We are trying to charge Veltecite with power, the same way the Storm does. Bring us more Veltecite Samples.",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Hard-ICA-Mine-1_Name": {
+    "SourceString": "Arms Race",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Hard-ICA-Mine-1_ShortDescription": {
+    "SourceString": "Focus Crystal Veins can often be found in the Jungle",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Hard-ICA-Mine-1_Description": {
+    "SourceString": "Prospector. It seems like Korolev is working on some sort of new laser rifle that uses Pure Focus Crystals. Go get us some, and be discrete about it.",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Hard-ICA-Mine-2_Name": {
+    "SourceString": "Energy Crisis",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Hard-ICA-Mine-2_ShortDescription": {
+    "SourceString": "Meteor showers are a random event. Make sure to get there first to mine them!",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Hard-ICA-Mine-2_Description": {
+    "SourceString": "Gear up and go get us some Meteor Fragments and Clear Veltecite! If the rumors are true, this stuff could power our station systems for weeks!",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Easy-KOR-Hunt-1_Name": {
+    "SourceString": "Miner Protection",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Easy-KOR-Hunt-1_ShortDescription": {
+    "SourceString": "Striders hunt in packs. Try to single them out and don't let them overwhelm you",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Easy-KOR-Hunt-1_Description": {
+    "SourceString": "Prospector, packs of Striders have been attacking our mining convoys! Go cull their numbers a bit.",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Easy-KOR-Hunt-2_Name": {
+    "SourceString": "Prove your skills",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Easy-KOR-Hunt-2_ShortDescription": {
+    "SourceString": "Try not to alert too many creatures at once, they can quickly overwhelm you",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Easy-KOR-Hunt-2_Description": {
+    "SourceString": "Time for you to show what you're capable of! Kill creatures using a pistol to prove your skills.",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Medium-KOR-Hunt-1_Name": {
+    "SourceString": "Rattle the Cage",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Medium-KOR-Hunt-1_ShortDescription": {
+    "SourceString": "Rattlers can spit a beam of powerful projectiles. Make sure to use cover!",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Medium-KOR-Hunt-1_Description": {
+    "SourceString": "Those damned Rattlers keep interfering with mining operations! Hunt some of them down, and use a Shotgun, make it brutal.",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Medium-KOR-Hunt-2_Name": {
+    "SourceString": "Clearing the Dig Site",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Medium-KOR-Hunt-2_ShortDescription": {
+    "SourceString": "You can use your map to find the specified location",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Medium-KOR-Hunt-2_Description": {
+    "SourceString": "The Dig Site, one of our most valuable excavations, has been overrun by creatures! You know what to do, now go!",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Medium-KOR-Hunt-3_Name": {
+    "SourceString": "Eliminate the Threat",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Medium-KOR-Hunt-3_ShortDescription": {
+    "SourceString": "Wait for the Marauder to expose its weak spot to attack it!",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Medium-KOR-Hunt-3_Description": {
+    "SourceString": "One of our excavators was just ripped to shreds by ferocious creatures, the kind known as \"Marauders\". I don't care how you do it, but hunt them down!",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Hard-KOR-Hunt-1_Name": {
+    "SourceString": "Crashed Ship",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Hard-KOR-Hunt-1_ShortDescription": {
+    "SourceString": "Rattlers can spit a beam of powerful projectiles. Make sure to use cover!",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Hard-KOR-Hunt-1_Description": {
+    "SourceString": "According to Intel, a ship with valuable Osiris tech crashed in the Jungle. Go clear the area of Rattlers so our troops can loot the wreck!",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Easy-ICA-Hunt-1_Name": {
+    "SourceString": "Rookie Hunter",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Easy-ICA-Hunt-1_ShortDescription": {
+    "SourceString": "Try not to alert too many creatures at once, they can quickly overwhelm you",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Easy-ICA-Hunt-1_Description": {
+    "SourceString": "Ah! There you are, Prospector. Before we give you any real work, go hunt some creatures to prove your worth, then report back to me.",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Easy-ICA-Hunt-2_Name": {
+    "SourceString": "AR Calibration",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Easy-ICA-Hunt-2_ShortDescription": {
+    "SourceString": "Try not to alert too many creatures at once, they can quickly overwhelm you",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Easy-ICA-Hunt-2_Description": {
+    "SourceString": "We're considering equipping our troops with rifles against the creatures of Fortuna III. Grab an Assault Rifle, go down there and kill creatures with it.",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Easy-ICA-Hunt-3_Name": {
+    "SourceString": "Secure the LZ",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Easy-ICA-Hunt-3_ShortDescription": {
+    "SourceString": "You can use your map to find the specified location",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Easy-ICA-Hunt-3_Objective": {
+    "SourceString": "Hunt Creatures at the Base Camp on Bright Sands",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Easy-ICA-Hunt-3_Description": {
+    "SourceString": "Prospector. Creatures are hindering our Research Teams from landing at Base Camp. You know what to do.",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Medium-ICA-Hunt-1_Name": {
+    "SourceString": "Pest Control",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Medium-ICA-Hunt-1_ShortDescription": {
+    "SourceString": "Wait for the Marauder to expose its weak spot to attack it!",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Medium-ICA-Hunt-1_Description": {
+    "SourceString": "We need you to eliminate Marauders and Rattlers, Prospector! They're a threat to our scouts and scavengers.",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Medium-ICA-Hunt-2_Name": {
+    "SourceString": "Parasites",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Medium-ICA-Hunt-2_ShortDescription": {
+    "SourceString": "You can use your map to find the specified location",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Medium-ICA-Hunt-2_Objective": {
+    "SourceString": "Hunt Creatures at Nutrion Farms Warehouse on Crescent Falls",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Medium-ICA-Hunt-2_Description": {
+    "SourceString": "We need your help, Prospector. Our Warehouse at Nutrion Farms got overrun by creatures. Get there before they destroy our stocked rations.",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Hard-ICA-Hunt-1_Name": {
+    "SourceString": "Target Practice",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Hard-ICA-Hunt-1_ShortDescription": {
+    "SourceString": "Wait for the Marauder to expose its weak spot to attack it!",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Hard-ICA-Hunt-1_Description": {
+    "SourceString": "We want you to test out killing Marauders from a distance, see how easy they are to track... and how fast they can close in.",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Hard-ICA-Hunt-2_Name": {
+    "SourceString": "Debugging",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Hard-ICA-Hunt-2_ShortDescription": {
+    "SourceString": "Rattlers can spit a beam of powerful projectiles. Make sure to use cover!",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Hard-ICA-Hunt-2_Description": {
+    "SourceString": "Rattlers are messing with what's left of the old Bright Sands Comms Tower facility; make sure they don't turn the place into a new nest.",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Easy-Osiris-Hunt-1_Name": {
+    "SourceString": "Behavioral Analysis",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Easy-Osiris-Hunt-1_ShortDescription": {
+    "SourceString": "Try not to alert too many creatures at once, they can quickly overwhelm you",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Easy-Osiris-Hunt-1_Description": {
+    "SourceString": "We are gathering behavioral combat data on how creatures react to certain threats. Use a Pistol to hunt the specified amount of creatures.",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Easy-Osiris-Hunt-2_Name": {
+    "SourceString": "Behavioral Analysis II",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Easy-Osiris-Hunt-2_ShortDescription": {
+    "SourceString": "Striders hunt in packs. Try to single them out and don't let them overwhelm you",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Easy-Osiris-Hunt-2_Description": {
+    "SourceString": "The last batch of data you brought us was useful, Prospector. This time, hunt Striders using an SMG and report back ASAP.",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Easy-Osiris-Hunt-3_Name": {
+    "SourceString": "For Science",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Easy-Osiris-Hunt-3_ShortDescription": {
+    "SourceString": "You can use your map to find the specified location",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Easy-Osiris-Hunt-3_Description": {
+    "SourceString": "Ah, Prospector. Our Science Campus has been overrun by creatures! Go kill them to protect our delicate research equipment.",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Easy-Osiris-Hunt-4_Name": {
+    "SourceString": "Population Control I",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Easy-Osiris-Hunt-4_ShortDescription": {
+    "SourceString": "Rattlers can spit a beam of powerful projectiles. Make sure to use cover!",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Easy-Osiris-Hunt-4_Description": {
+    "SourceString": "We've been monitoring creature populations, and there's been a sharp increase in Rattler numbers. Go eliminate some to keep their population in check.",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Medium-Osiris-Hunt-1_Name": {
+    "SourceString": "Behavioral Analysis III",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Medium-Osiris-Hunt-1_ShortDescription": {
+    "SourceString": "Try not to alert too many creatures at once, they can quickly overwhelm you",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Medium-Osiris-Hunt-1_Description": {
+    "SourceString": "Time for more behavioral combat data, Prospector. Get yourself a Sniper Rifle and test it out by hunting any creatures on Fortuna.",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Medium-Osiris-Hunt-2_Name": {
+    "SourceString": "Protect our Investments",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Medium-Osiris-Hunt-2_ShortDescription": {
+    "SourceString": "Wait for the Marauder to expose its weak spot to attack it!",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Medium-Osiris-Hunt-2_Description": {
+    "SourceString": "Prospector. Rattlers and Marauders are a major threat to our fragile sensors on Fortuna III. Go take care of some of these creatures.",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Medium-Osiris-Hunt-3_Name": {
+    "SourceString": "Secure the Perimeter",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Medium-Osiris-Hunt-3_ShortDescription": {
+    "SourceString": "You can use your map to find the specified location",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Medium-Osiris-Hunt-3_Description": {
+    "SourceString": "The Science Campus and the Vaccine Labs, two very valuable Osiris sites, are teeming with creatures! You know what to do, Prospector.",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Medium-Osiris-Hunt-4_Name": {
+    "SourceString": "Behavioral Analysis IV",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Medium-Osiris-Hunt-4_ShortDescription": {
+    "SourceString": "Wait for the Marauder to expose its weak spot to attack it!",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Medium-Osiris-Hunt-4_Description": {
+    "SourceString": "Next up in our Research, we need to analyze how Marauders react to Submachine Guns in combat. Grab one and go get us the data.",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Medium-Osiris-Hunt-5_Name": {
+    "SourceString": "Xeno-Archaeology I",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Medium-Osiris-Hunt-5_ShortDescription": {
+    "SourceString": "You can use your map to find the specified location",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Medium-Osiris-Hunt-5_Description": {
+    "SourceString": "You know that big Skeleton on Crescent Falls? We want to send an Archaeologist to take a look at it, but it's crawling with Striders. Eliminate them.",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Medium-Osiris-Hunt-5_Objective": {
+    "SourceString": "Hunt Striders at Crescent Falls' Skeleton Observation",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Hard-Osiris-Hunt-1_Name": {
+    "SourceString": "Muddied Waters",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Hard-Osiris-Hunt-1_ShortDescription": {
+    "SourceString": "You can use your map to find the specified location",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Hard-Osiris-Hunt-1_Description": {
+    "SourceString": "Creatures roaming the Lake around our Lab have been obstructing research retrieval efforts. Take them out.",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Hard-Osiris-Hunt-2_Name": {
+    "SourceString": "Brains over brawn",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Hard-Osiris-Hunt-2_ShortDescription": {
+    "SourceString": "Crushers are tough creatures. Gear up or bring friends!",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Hard-Osiris-Hunt-2_Description": {
+    "SourceString": "Some of the lab techs here hold the belief Crushers are Fortuna III's apex predator. Prove them wrong.",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Hard-Osiris-Hunt-3_Name": {
+    "SourceString": "Sanitation",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Hard-Osiris-Hunt-3_ShortDescription": {
+    "SourceString": "You can use your map to find the specified location",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Hard-Osiris-Hunt-3_Description": {
+    "SourceString": "I'm sending a team down to check soil samples around the Crashed Ship; I need you to clear the area of vermin before they arrive.",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Hard-Osiris-Hunt-4_Name": {
+    "SourceString": "Behavioral Analysis V",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Hard-Osiris-Hunt-4_ShortDescription": {
+    "SourceString": "Crushers are tough creatures. Gear up or bring friends!",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Hard-Osiris-Hunt-4_Description": {
+    "SourceString": "Time for another test: find out how thick a live Crusher's hide really is using an Assault Rifle or Sniper Rifle.",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Hard-Osiris-Hunt-5_Name": {
+    "SourceString": "Living Black Box",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Hard-Osiris-Hunt-5_ShortDescription": {
+    "SourceString": "Wait for the Marauder to expose its weak spot to attack it!",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Hard-Osiris-Hunt-5_Description": {
+    "SourceString": "Marauders have been lingering around the Bright Sands Crashed Ship site; get rid of them so I can send someone to find out why.",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Hard-Osiris-Hunt-6_Name": {
+    "SourceString": "Xeno-Archaeology II",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Hard-Osiris-Hunt-6_ShortDescription": {
+    "SourceString": "You can use your map to find the specified location",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Hard-Osiris-Hunt-6_Description": {
+    "SourceString": "Prospector! The Archaeology Team we sent to Skeleton Observation was attacked by Marauders. These beasts have to die so we can continue our research!",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Hard-Osiris-Hunt-6_Objective": {
+    "SourceString": "Hunt Marauders at Crescent Falls' Skeleton Observation",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Hard-Osiris-Hunt-7_Name": {
+    "SourceString": "Pinnacle of Evolution",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Hard-Osiris-Hunt-7_ShortDescription": {
+    "SourceString": "You can use your map to find the specified location",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Hard-Osiris-Hunt-7_Description": {
+    "SourceString": "The Pinnacle Labs have been overrun by creatures. There is highly sensitive and valuable research equipment in there, Prospector, so get to work.",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Hard-Osiris-Hunt-7_Objective1": {
+    "SourceString": "Hunt Marauders at Pinnacle Labs on Crescent Falls",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Hard-Osiris-Hunt-7_Objective2": {
+    "SourceString": "Hunt Rattlers at Pinnacle Labs on Crescent Falls",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Hard-Osiris-Hunt-7_Objective3": {
+    "SourceString": "Hunt Striders at Pinnacle Labs on Crescent Falls",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Medium-KOR-PvP-1_Name": {
+    "SourceString": "Testing the Arsenal",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Medium-KOR-PvP-1_ShortDescription": {
+    "SourceString": "",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Medium-KOR-PvP-1_Description": {
+    "SourceString": "Prospector! It's time to test Korolev Weaponry against human targets. Grab a Korolev Weapon and eliminate rival Prospectors.",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Hard-KOR-PvP-1_Name": {
+    "SourceString": "Protect our Claim",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Hard-KOR-PvP-1_ShortDescription": {
+    "SourceString": "",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Hard-KOR-PvP-1_Description": {
+    "SourceString": "Greedy Prospectors have been filling their own pockets with valuable minerals from our Dig Site. Go eliminate any Prospector there, send a message!",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Hard-KOR-PvP-2_Name": {
+    "SourceString": "Leaving a Mark",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Hard-KOR-PvP-2_ShortDescription": {
+    "SourceString": "",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Hard-KOR-PvP-2_Description": {
+    "SourceString": "Some are saying Korolev is afraid of conflict! Get that idea out of their heads! Take out rival Prospectors, let them know Korolev sent you!",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Hard-KOR-PvP-3_Name": {
+    "SourceString": "Live Fire",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Hard-KOR-PvP-3_ShortDescription": {
+    "SourceString": "",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Hard-KOR-PvP-3_Description": {
+    "SourceString": "Prospector, marketing department wants more test data to sell our superior weapons; go take out rival Prospectors with Korolev Weapons!",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Hard-KOR-PvP-4_Name": {
+    "SourceString": "Sales Pitch",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Hard-KOR-PvP-4_ShortDescription": {
+    "SourceString": "",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Hard-KOR-PvP-4_Description": {
+    "SourceString": "Habitat Civil Protection doesn't believe our guns are worth the price; take out some rival Prospectors with a Korolev Pistol and Shotgun to shut them up!",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Hard-KOR-PvP-5_Name": {
+    "SourceString": "Burying the Lead",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Hard-KOR-PvP-5_ShortDescription": {
+    "SourceString": "",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Hard-KOR-PvP-5_Description": {
+    "SourceString": "KBR Longshot sales need a boost back home; let's show them what a Korolev rifle can do to Marauders and Prospectors!",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Medium-ICA-PvP-1_Name": {
+    "SourceString": "Proprietary Technology",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Medium-ICA-PvP-1_ShortDescription": {
+    "SourceString": "",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Medium-ICA-PvP-1_Description": {
+    "SourceString": "Those insufferable Osiris idiots are messing with our Uplinks. It's time to send a message. Eliminate a rival Prospector using an ICA Weapon, let them know it was us.",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Medium-ICA-PvP-2_Name": {
+    "SourceString": "Retaliation",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Medium-ICA-PvP-2_ShortDescription": {
+    "SourceString": "",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Medium-ICA-PvP-2_Description": {
+    "SourceString": "One of our scavenging parties was taken out by Prospectors. That offense can't go unpunished: eliminate some Prospectors to send a message.",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Medium-ICA-PvP-3_Name": {
+    "SourceString": "Tour Guide",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Medium-ICA-PvP-3_ShortDescription": {
+    "SourceString": "",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Medium-ICA-PvP-3_Description": {
+    "SourceString": "Fortuna III's seen a spike in \"fake\" Prospectors, here just to take in the scenery. Go down there and set the tone: take some out with an Assault Rifle.",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Hard-ICA-PvP-and-PvE-1_Name": {
+    "SourceString": "On Our Team",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Hard-ICA-PvP-and-PvE-1_ShortDescription": {
+    "SourceString": "",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Hard-ICA-PvP-and-PvE-1_Description": {
+    "SourceString": "A big arms merchant is on station looking to buy; head down and take out Striders, Rattlers, and Prospectors with the Advocate to help secure us a sale.",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Hard-ICA-PvP-1_Name": {
+    "SourceString": "Hallowed Ground",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Hard-ICA-PvP-1_ShortDescription": {
+    "SourceString": "",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Hard-ICA-PvP-1_Description": {
+    "SourceString": "Prospectors have been vandalizing what's left of the Bright Sands Base Camp; go down there and teach them some manners.",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Hard-ICA-PvP-2_Name": {
+    "SourceString": "Restoring the Balance",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Hard-ICA-PvP-2_ShortDescription": {
+    "SourceString": "",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Hard-ICA-PvP-2_Description": {
+    "SourceString": "Some believe Osiris and Korolev weapons outclass ours. Use ICA weapons to \"educate\" rival Prospectors as to who really makes the best guns.",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Hard-ICA-PvP-3_Name": {
+    "SourceString": "Forest Clearing",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Hard-ICA-PvP-3_ShortDescription": {
+    "SourceString": "",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Hard-ICA-PvP-3_Description": {
+    "SourceString": "I need someone to head down to the Bright Sands Jungle and make sure other Prospectors and the local wildlife learn to stay out of it. No, you don't need to know why.",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Medium-Osiris-PvP-1_Name": {
+    "SourceString": "Superior Firepower",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Medium-Osiris-PvP-1_ShortDescription": {
+    "SourceString": "",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Medium-Osiris-PvP-1_Description": {
+    "SourceString": "We need to prove to these ICA troglodytes that Osiris weaponry is more than lethal. Use it to eliminate another Prospector.",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Hard-Osiris-PvP-1_Name": {
+    "SourceString": "Lab Rats",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Hard-Osiris-PvP-1_ShortDescription": {
+    "SourceString": "",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Hard-Osiris-PvP-1_Description": {
+    "SourceString": "An opportunity has presented itself that requires some \"special\" testing. Head to the Waterfall and Vaccine Labs and prepare some \"volunteers\" for us to pick up.",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Hard-Osiris-PvP-2_Name": {
+    "SourceString": "Internal Combustion",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Hard-Osiris-PvP-2_ShortDescription": {
+    "SourceString": "",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Hard-Osiris-PvP-2_Description": {
+    "SourceString": "The IFA filed a report that the Basilisk is \"an unnecessarily cruel weapon\"; take out some Prospectors with one and prove its efficacy outweighs all drawbacks.",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Easy-Osiris-Brightcaps-1_Name": {
+    "SourceString": "Botanist I",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Easy-Osiris-Brightcaps-1_ShortDescription": {
+    "SourceString": "Brightcaps can often be found near Swamps and Jungles",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Easy-Osiris-Brightcaps-1_Description": {
+    "SourceString": "Prospector! The Brightcap Mushrooms found in the Swamps of Fortuna reportedly have vast medicinal applications. Get us some samples.",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Easy-Osiris-Brightcaps-2_Name": {
+    "SourceString": "Botanist II",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Easy-Osiris-Brightcaps-2_ShortDescription": {
+    "SourceString": "Brightcaps can often be found near Swamps and Jungles",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Easy-Osiris-Brightcaps-2_Description": {
+    "SourceString": "We even found applications for Brightcap Mushrooms in fuel production. We need more! You know what is expected of you, Prospector.",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Medium-Osiris-Brightcaps-and-PvE-1_Name": {
+    "SourceString": "Clear the Swamp",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Medium-Osiris-Brightcaps-and-PvE-1_ShortDesciption": {
+    "SourceString": "Blast Ticks are often found near Brightcaps in Swamps and Jungles",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Medium-Osiris-Brightcaps-and-PvE-1_Description": {
+    "SourceString": "Those Blast Ticks are a real nuisance. Go eliminate some, and while you're there, bring back some Brightcaps.",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Medium-Osiris-Brightcaps-3_Name": {
+    "SourceString": "Botanist III",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Medium-Osiris-Brightcaps-3_ShortDescription": {
+    "SourceString": "Glowy Brightcaps can only be harvested during an active Storm",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Medium-Osiris-Brightcaps-3_Description": {
+    "SourceString": "Our studies on Brightcaps continue. I need you to find a new specimen type, you'll be able to tell them apart by their glow. Now hurry!",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Hard-Osiris-Brightcaps-and-PvE-1_Name": {
+    "SourceString": "Bad Acid",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Hard-Osiris-Brightcaps-and-PvE-1_ShortDescription": {
+    "SourceString": "Glowy Brightcaps can only be harvested during an active Storm",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Hard-Osiris-Brightcaps-and-PvE-1_Description": {
+    "SourceString": "Of course it would be that Acid Ticks feed on Glowy Brightcaps. Prospector, get me more samples, and kill some of those pests for good measure!",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Hard-Osiris-Brightcaps-1_Name": {
+    "SourceString": "Harvest Day",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Hard-Osiris-Brightcaps-1_ShortDescription": {
+    "SourceString": "Glowy Brightcaps can only be harvested during an active Storm",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Hard-Osiris-Brightcaps-1_Description": {
+    "SourceString": "A lab contamination has cost us dozens of samples! You need to get down there and get more Brightcaps, glowing ones too. Now!",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Easy-Osiris-BlueRunnerEgg-1_Name": {
+    "SourceString": "Egg Delivery",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Easy-Osiris-BlueRunnerEgg-1_ShortDescription": {
+    "SourceString": "Keep an eye out for strange Alien Footprints, they may lead you to an Egg",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Easy-Osiris-BlueRunnerEgg-1_Description": {
+    "SourceString": "We have heard of rare Blue Runner Eggs being found around Fortuna. Needless to say, we require a Sample for Analysis.",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Easy-Osiris-BlueRunnerEgg-2_Name": {
+    "SourceString": "Egg Delivery II",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Easy-Osiris-BlueRunnerEgg-2_ShortDescription": {
+    "SourceString": "Keep an eye out for strange Alien Footprints, they may lead you to an Egg",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Easy-Osiris-BlueRunnerEgg-2_Description": {
+    "SourceString": "Prospector! The Blue Runner Egg you brought us proved full of invaluable genetic material. Bring us more of these Eggs!",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Medium-Osiris-BlueRunnerEgg-1_Name": {
+    "SourceString": "Egg Delivery III",
+    "Comment": "",
+    "Other": "Keep an eye out for strange Alien Footprints, they may lead you to an Egg"
+  },
+  "NEW-Medium-Osiris-BlueRunnerEgg-1_ShortDescription": {
+    "SourceString": "Keep an eye out for strange Alien Footprints, they may lead you to an Egg",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Medium-Osiris-BlueRunnerEgg-1_Description": {
+    "SourceString": "We are close to being able to grow Blue Runners in our lab, Prospector, we just require more Blue Runner Eggs. You know what to do.",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Medium-Osiris-Meteor-1_Name": {
+    "SourceString": "Unstable Sample",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Medium-Osiris-Meteor-1_ShortDescription": {
+    "SourceString": "Meteor showers are a random event. Make sure to get there first to mine them!",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Medium-Osiris-Meteor-1_Description": {
+    "SourceString": "Turns out these Meteor Shards that Korolev has been using to fuel their damn drills are fragments of Fortuna's Moon. We obviously need samples!",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Hard-Osiris-Meteor-1_Name": {
+    "SourceString": "Core Values",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Hard-Osiris-Meteor-1_ShortDescription": {
+    "SourceString": "Meteor showers are a random event. Make sure to get there first to mine them!",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Hard-Osiris-Meteor-1_Description": {
+    "SourceString": "Ah, there you are, Prospector. We need you to drop down there and get us the Meteor Core of a Meteor Shower for some experiments. Off you go.",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Hard-Osiris-Meteor-2_Name": {
+    "SourceString": "Promising Results",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Hard-Osiris-Meteor-2_ShortDescription": {
+    "SourceString": "Meteor showers are a random event. Make sure to get there first to mine them!",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Hard-Osiris-Meteor-2_Description": {
+    "SourceString": "Prospector, both Meteor Shards and Meteor Cores proved invaluable in our Xenological Research. Bring us more of both, and be discrete about it.",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Medium-KOR-Meteor-1_Name": {
+    "SourceString": "Meteor Shards",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Medium-KOR-Meteor-1_ShortDescription": {
+    "SourceString": "Meteor showers are a random event. Make sure to get there first to mine them!",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Medium-KOR-Meteor-1_Description": {
+    "SourceString": "We have received reports of incredibly powerful Meteor Shards unpredictably dropping onto Fortuna in spectacular Meteor Showers. Go get us some!",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Hard-KOR-Meteor-1_Name": {
+    "SourceString": "Meteor Core",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Hard-KOR-Meteor-1_ShortDescription": {
+    "SourceString": "Meteor showers are a random event. Make sure to get there first to mine them!",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Hard-KOR-Meteor-1_Description": {
+    "SourceString": "Prospector! Osiris seems to have gotten their hands on a Meteor Core from the main Meteor of a Meteor Shower. We need one as well!",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Hard-KOR-Meteor-2_Name": {
+    "SourceString": "Shards of pure Power",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Hard-KOR-Meteor-2_ShortDescription": {
+    "SourceString": "Meteor showers are a random event. Make sure to get there first to mine them!",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Hard-KOR-Meteor-2_Description": {
+    "SourceString": "These Meteor Shards are incredibly valuable. We can use them to power our mining machinery. Bring us more, Prospector.",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Hard-KOR-Meteor-3_Name": {
+    "SourceString": "Battery Day",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Hard-KOR-Meteor-3_ShortDescription": {
+    "SourceString": "Meteor showers are a random event. Make sure to get there first to mine them!",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Hard-KOR-Meteor-3_Description": {
+    "SourceString": "Prospector, we have developed a new type of Battery based on Meteor Cores that will fuel a drop ship or excavator for years. You know what to do!",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Easy-ICA-Uplink-1_Name": {
+    "SourceString": "Data Drive",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Easy-ICA-Uplink-1_ShortDescription": {
+    "SourceString": "Purchase a Data Drive at the ICA and slot it into an Uplink to upgrade its rarity",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Easy-ICA-Uplink-1_Description": {
+    "SourceString": "Ah, Prospector. We have a task for you. Bring a Data Drive to the Planet and load it with Uncommon Data at one of our Uplinks.",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Medium-ICA-Uplink-1_Name": {
+    "SourceString": "Data Drive II",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Medium-ICA-Uplink-1_ShortDescription": {
+    "SourceString": "Purchase a Data Drive at the ICA and slot it into an Uplink to upgrade its rarity",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Medium-ICA-Uplink-1_Description": {
+    "SourceString": "The Data you brought us was helpful, but we need more precise Meteorological Values. Load a Data Drive with Rare Data and deliver it to us.",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Medium-ICA-Uplink-2_Name": {
+    "SourceString": "Data Drive III",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Medium-ICA-Uplink-2_ShortDescription": {
+    "SourceString": "Purchase a Data Drive at the ICA and slot it into an Uplink to upgrade its rarity",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Medium-ICA-Uplink-2_Description": {
+    "SourceString": "Good work last time, Prospector. The Data was perfect. This time, bring us two Rare Data Drives.",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Hard-ICA-Uplink-1_Name": {
+    "SourceString": "Data Drive IV",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Hard-ICA-Uplink-1_ShortDescription": {
+    "SourceString": "Purchase a Data Drive at the ICA and slot it into an Uplink to upgrade its rarity",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Hard-ICA-Uplink-1_Description": {
+    "SourceString": "In order to be able to predict Storm Behaviour more precisely, we will need higher quality Data. Bring us a Valuable Data Drive.",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Hard-ICA-Uplink-2_Name": {
+    "SourceString": "Data Drive V",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Hard-ICA-Uplink-2_ShortDescription": {
+    "SourceString": "Purchase a Data Drive at the ICA and slot it into an Uplink to upgrade its rarity",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Hard-ICA-Uplink-2_Description": {
+    "SourceString": "Yes! The more precise Data you brought us was a great success! Do you think you are ready to bring us a Unique Data Drive?",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Hard-ICA-Uplink-3_Name": {
+    "SourceString": "Data Drive VI",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Hard-ICA-Uplink-3_ShortDescription": {
+    "SourceString": "Purchase a Data Drive at the ICA and slot it into an Uplink to upgrade its rarity",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Hard-ICA-Uplink-3_Description": {
+    "SourceString": "We're finding more than just Storm data now... Get us more Unique Data Drives, Prospector, what we might find could have immeasurable value!",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Easy-ICA-Powerup-1_Name": {
+    "SourceString": "Energy Crisis",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Easy-ICA-Powerup-1_ShortDescription": {
+    "SourceString": "",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Easy-ICA-Powerup-1_Description": {
+    "SourceString": "The ICA draws a majority of its power from Miniature Reactors scavenged in old Power Facilities. Bring us one, Prospector.",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Medium-ICA-Powerup-1_Name": {
+    "SourceString": "Energy Crisis II",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Medium-ICA-Powerup-1_ShortDescription": {
+    "SourceString": "",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Medium-ICA-Powerup-1_Description": {
+    "SourceString": "We need more power for our Community Life Support Systems, Prospector! Go get us more Miniature Reactors.",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Medium-ICA-Powerup-2_Name": {
+    "SourceString": "Energy Crisis III",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Medium-ICA-Powerup-2_ShortDescription": {
+    "SourceString": "",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Medium-ICA-Powerup-2_Description": {
+    "SourceString": "Our Security Systems ran out of power and are runnning on emergency backup. This is not sustainable. We need more Miniature Reactors.",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Hard-ICA-Powerup-1_Name": {
+    "SourceString": "A Solution?",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Hard-ICA-Powerup-1_ShortDescription": {
+    "SourceString": "",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Hard-ICA-Powerup-1_Description": {
+    "SourceString": "Prospector. We have gotten our hands on a load of powerful Energy Rifles Korolev has been working on. We need Miniature Reactors to charge them.",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Easy-KOR-Stash-1_Name": {
+    "SourceString": "Excavation Gear",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Easy-KOR-Stash-1_ShortDescription": {
+    "SourceString": "Search for the Dead Drop underground at East Collection Point on Bright Sands",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Easy-KOR-Stash-1_Description": {
+    "SourceString": "For excavations, we need you to stash a Heavy Mining Tool in one of Badums Dead Drop Containers underground at East Collection Point. You'll find it.",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Easy-KOR-Stash-1_Objective": {
+    "SourceString": "Stash a Heavy Mining Tool in the Deep Underground Elevator Dead Drop",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Easy-KOR-Stash-2_Name": {
+    "SourceString": "Field Repairs",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Easy-KOR-Stash-2_ShortDescription": {
+    "SourceString": "Search for the Dead Drop by the Blue Tarp under the Giant Skeleton in the Swamp on Bright Sands",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Easy-KOR-Stash-2_Description": {
+    "SourceString": "Ah, there you are. Search for the Dead Drop Container at the Swamp Skeleton and stash some Ball Bearings in there. Our miners need them for field repairs.",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Easy-KOR-Stash-2_Objective": {
+    "SourceString": "Stash Ball Bearings in the Swamp Skeleton Dead Drop",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Medium-KOR-Stash-1_Name": {
+    "SourceString": "Jamming the Comms",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Medium-KOR-Stash-1_ShortDescription": {
+    "SourceString": "Stash Derelict Explosives in the Satellite Dish Dead Drop at Comms Tower on Bright Sands",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Medium-KOR-Stash-1_Description": {
+    "SourceString": "Prospector. Acquire some Derelict Explosives and go stash them in the specified Dead Drop at Comms Tower. Be discrete about it, and no questions.",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Medium-KOR-Stash-1_Objective": {
+    "SourceString": "Stash Derelict Explosives",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Medium-KOR-Stash-2_Name": {
+    "SourceString": "Tools for the Job",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Medium-KOR-Stash-2_ShortDescription": {
+    "SourceString": "Search for the Dead Drop at Base Camp on Bright Sands",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Medium-KOR-Stash-2_Description": {
+    "SourceString": "Prospector. Go deposit a Hammer Pistol in a Dead Drop at Base Camp for one of our Agents on Fortuna. They will take care of the rest.",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Medium-KOR-Stash-2_Objective": {
+    "SourceString": "Stash a Hammer Pistol in the Gate C Dead Drop",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Medium-KOR-Stash-3_Name": {
+    "SourceString": "Stability is Key",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Medium-KOR-Stash-3_ShortDescription": {
+    "SourceString": "Search for the Dead Drops at Base Camp on Bright Sands",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Medium-KOR-Stash-3_Description": {
+    "SourceString": "Our Comms are jammed. We need you to stash a Magnetic Field Stabilizer at each of the three Base Camp Dead Drops, Main Office, Gate A and Gate C.",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Medium-KOR-Stash-3_Objective1": {
+    "SourceString": "Stash a Magnetic Field Stabilizer in the Main Office Dead Drop",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Medium-KOR-Stash-3_Objective2": {
+    "SourceString": "Stash a Magnetic Field Stabilizer in the Gate A Dead Drop",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Medium-KOR-Stash-3_Objective3": {
+    "SourceString": "Stash a Magnetic Field Stabilizer in the Gate C Dead Drop",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Medium-KOR-Stash-4_Name": {
+    "SourceString": "And two smoking Barrels",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Medium-KOR-Stash-4_ShortDescription": {
+    "SourceString": "Search for the Dead Drop at Comms Tower on Bright Sands",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Medium-KOR-Stash-4_Description": {
+    "SourceString": "Prospector. Get down there and stash a PKR Maelstrom Shotgun and some Ammo at the Comms Tower for one of our Field Agents. And be discrete about it.",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Medium-KOR-Stash-4_Objective1": {
+    "SourceString": "Stash a PKR Maelstrom Shotgun in the Comms Tower Dead Drop",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Medium-KOR-Stash-4_Objective2": {
+    "SourceString": "Stash 200 Shotgun Ammo in the Comms Tower Dead Drop",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Hard-KOR-Stash-1_Name": {
+    "SourceString": "Stashing Safety",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Hard-KOR-Stash-1_ShortDescription": {
+    "SourceString": "Search for the Dead Drop at Base Camp on Bright Sands",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Hard-KOR-Stash-1_Description": {
+    "SourceString": "One of our Miners has been injured and is hiding near Base Camp. Go stash a Rare Shield for them there and clear the area of creatures.",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Hard-KOR-Stash-1_Objective1": {
+    "SourceString": "Stash a Rare Shield in the Main Office Dead Drop",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Hard-KOR-Stash-1_Objective2": {
+    "SourceString": "Hunt Creatures at Base Camp on Bright Sands",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Hard-KOR-Stash-2_Name": {
+    "SourceString": "Upgrades",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Hard-KOR-Stash-2_ShortDescription": {
+    "SourceString": "Search for the Dead Drop at Starport Admin on Crescent Falls",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Hard-KOR-Stash-2_Description": {
+    "SourceString": "We want to take over an ICA Data Center. Stash a Master Unit CPU at the Server Room so that our Tech Staff can use it to splice the System.",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Hard-KOR-Stash-2_Objective": {
+    "SourceString": "Stash a Master Unit CPU in the Server Room Dead Drop",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Easy-ICA-Stash-1_Name": {
+    "SourceString": "Grenadier",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Easy-ICA-Stash-1_ShortDescription": {
+    "SourceString": "Search for the Dead Drop by the Blue Tarp under the Giant Skeleton in the Swamp on Bright Sands",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Easy-ICA-Stash-1_Description": {
+    "SourceString": "Prospector. You have heard of Badum's Dead Drop Containers, right? We need you to find the one at Swamp Skeleton and stash Grenades in it for our Troops.",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Easy-ICA-Stash-1_Objective": {
+    "SourceString": "Stash Grenades in the Swamp Skeleton Dead Drop",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Medium-ICA-Stash-1_Name": {
+    "SourceString": "Storm Interference",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Medium-ICA-Stash-1_ShortDescription": {
+    "SourceString": "Search for the Dead Drop at the Comms Tower on Bright Sands",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Medium-ICA-Stash-1_Description": {
+    "SourceString": "Prospector, the Storm has been distorting all signals from our Comms Tower. We need you to head down there and stash Magnetic Field Stabilizers there.",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Medium-ICA-Stash-1_Objective": {
+    "SourceString": "Stash Magnetic Field Stabilizers in the Comms Tower Dead Drop",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Medium-ICA-Stash-2_Name": {
+    "SourceString": "Shady Deal",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Medium-ICA-Stash-2_ShortDescription": {
+    "SourceString": "Search for the Dead Drop at Nutrion Farms on Crescent Falls",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Medium-ICA-Stash-2_Description": {
+    "SourceString": "We'll have to do business with a rather shady arms dealer to supply our troops. They want us to stash Old Currency near Nutrion Farms as payment. Go.",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Medium-ICA-Stash-2_Objective": {
+    "SourceString": "Stash Old Currency in the Nutrion Office Dead Drop",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Medium-ICA-Stash-3_Name": {
+    "SourceString": "Ambush",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Medium-ICA-Stash-3_ShortDescription": {
+    "SourceString": "Search for the Dead Drop at Base Camp on Bright Sands",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Medium-ICA-Stash-3_Description": {
+    "SourceString": "We are preparing an ambush on a spy that stole essential plans from us. For this, go stash a Shattergun in the Main Office Dead Drop at Base Camp.",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Medium-ICA-Stash-3_Objective": {
+    "SourceString": "Stash a Shattergun in the Main Office Dead Drop",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Medium-ICA-Stash-4_Name": {
+    "SourceString": "Emergency Power",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Medium-ICA-Stash-4_ShortDescription": {
+    "SourceString": "Search for the Dead Drop at Nutrion Farms on Crescent Falls",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Medium-ICA-Stash-4_Description": {
+    "SourceString": "Prospector. Got a mission for you. Go stash a Miniature Reactor in the Storage Room Dead Drop at Nutrion Farms, as emergency power supply.",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Medium-ICA-Stash-4_Objective": {
+    "SourceString": "Stash a Miniature Reactor in the Storage Room Dead Drop",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Medium-ICA-Stash-5_Name": {
+    "SourceString": "Ammo Supplies",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Medium-ICA-Stash-5_ShortDescription": {
+    "SourceString": "Search for the Dead Drop at Greens Prospect on Crescent Falls",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Medium-ICA-Stash-5_Description": {
+    "SourceString": "Our Field Agents need more Ammo if they are to protect our Research Installations. Go stash Medium Ammo at Stockpile near Greens Prospect for them.",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Medium-ICA-Stash-5_Objective": {
+    "SourceString": "Stash 1000 Medium Ammo in the Stockpile Dead Drop",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Hard-ICA-Stash-1_Name": {
+    "SourceString": "Data Drop",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Hard-ICA-Stash-1_ShortDescription": {
+    "SourceString": "Search for the Dead Drop at Greens Prospect on Crescent Falls",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Hard-ICA-Stash-1_Description": {
+    "SourceString": "Prospector. One of our Scientists is convinced she can predict the Storm, but she needs Data. Stash Rare Data Drives at Fulfilment Center for her.",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Hard-ICA-Stash-1_Objective": {
+    "SourceString": "Stash Rare Data Drives in the Fulfilment Center Dead Drop",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Hard-ICA-Stash-2_Name": {
+    "SourceString": "Field Supplies",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Hard-ICA-Stash-2_ShortDescription": {
+    "SourceString": "Search for the Dead Drop at Greens Prospect on Crescent Falls",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Hard-ICA-Stash-2_Description": {
+    "SourceString": "We need to make more construction materials available to building sites on Crescent Falls. Go stash Polymetallic Prefabricate near Greens Prospect.",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Hard-ICA-Stash-2_Objective": {
+    "SourceString": "Stash Polymetallic Prefabricate in the Stockpile Dead Drop",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Hard-ICA-Stash-3_Name": {
+    "SourceString": "Spare Parts",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Hard-ICA-Stash-3_ShortDescription": {
+    "SourceString": "Search for the Dead Drop at Starport Admin on Crescent Falls",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Hard-ICA-Stash-3_Description": {
+    "SourceString": "One of the Servers at Starport has been failing. Before we can send down a Technician, stash new Zero Systems CPUs for them in the Server Room.",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Hard-ICA-Stash-3_Objective": {
+    "SourceString": "Stash Zero Systems CPUs in the Server Room Dead Drop",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Hard-ICA-Stash-4_Name": {
+    "SourceString": "Provide an Advocate",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Hard-ICA-Stash-4_ShortDescription": {
+    "SourceString": "Search for the Dead Drop at Starport Admin on Crescent Falls",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Hard-ICA-Stash-4_Description": {
+    "SourceString": "Our field agent requested better gear to take down some creatures hindering his mission. Stash an Advocate Rifle at the Starport Cafeteria for him.",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Hard-ICA-Stash-4_Objective": {
+    "SourceString": "Stash an Advocate Assault Rifle in the Cafeteria Dead Drop",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Easy-Osiris-Stash-1_Name": {
+    "SourceString": "Botanical Samples",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Easy-Osiris-Stash-1_ShortDescription": {
+    "SourceString": "Search for the Dead Drop by the Blue Tarp under the Giant Skeleton in the Swamp on Bright Sands",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Easy-Osiris-Stash-1_Description": {
+    "SourceString": "Prospector! We need you to get your hands on some Brightcaps and stash them in one of Badums hidden Dead Drop Containers at Swamp Skeleton.",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Easy-Osiris-Stash-1_Objective": {
+    "SourceString": "Stash Brightcaps in the Swamp Skeleton Dead Drop",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Medium-Osiris-Stash-1_Name": {
+    "SourceString": "Lense Repairs",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Medium-Osiris-Stash-1_ShortDescription": {
+    "SourceString": "Search for the Dead Drop at Comms Tower on Bright Sands",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Medium-Osiris-Stash-1_Description": {
+    "SourceString": "It's time to replace the lenses of the Satellite Dish at Comms Tower. Look for the Dead Drop there and stash Optic Glass in it.",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Medium-Osiris-Stash-1_Objective": {
+    "SourceString": "Stash Optic Glass in the Satellite Dish Dead Drop",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Medium-Osiris-Stash-2_Name": {
+    "SourceString": "Technical Supplies",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Medium-Osiris-Stash-2_ShortDescription": {
+    "SourceString": "Search for the Dead Drop at Base Camp on Bright Sands",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Medium-Osiris-Stash-2_Description": {
+    "SourceString": "The field technician in charge of our on-planet biosurveillance systems requires new Interactive Screens. Go stash some at Main Office.",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Medium-Osiris-Stash-2_Objective": {
+    "SourceString": "Stash Interactive Screens in the Main Office Dead Drop",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Medium-Osiris-Stash-3_Name": {
+    "SourceString": "Self-Defence",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Medium-Osiris-Stash-3_ShortDescription": {
+    "SourceString": "Search for the Dead Drop at Nutrion Farms on Crescent Falls",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Medium-Osiris-Stash-3_Description": {
+    "SourceString": "Prospector. We need you to stash Asp Flechette Guns in the Storage Room on Crescent Falls for our security personnel. Go.",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Medium-Osiris-Stash-3_Objective": {
+    "SourceString": "Stash Asp Flechette Guns in the Storage Room Dead Drop",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Medium-Osiris-Stash-4_Name": {
+    "SourceString": "Toxin Testing",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Medium-Osiris-Stash-4_ShortDescription": {
+    "SourceString": "Search for the Dead Drop at Waterfall Lab on Bright Sands",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Medium-Osiris-Stash-4_Description": {
+    "SourceString": "This mission requires maximum discretion, Prospector. Stash Toxic Glands at the Waterfall Lab for an experiment that is none of your business.",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Medium-Osiris-Stash-4_Objective": {
+    "SourceString": "Stash Toxic Glands in the Waterfall Lab Dead Drop",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Hard-Osiris-Stash-1_Name": {
+    "SourceString": "Stormy Samples",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Hard-Osiris-Stash-1_ShortDescription": {
+    "SourceString": "Search for the Dead Drop at Greens Prospect on Crescent Falls",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Hard-Osiris-Stash-1_Description": {
+    "SourceString": "Ah, there you are. We need someone to go stash Charged Spinal Bases at the Fulfilment Center for our Field Scientists to pick up. Can you do it?",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Hard-Osiris-Stash-1_Objective": {
+    "SourceString": "Stash Charged Spinal Bases in the Fulfilment Center Dead Drop",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Hard-Osiris-Stash-2_Name": {
+    "SourceString": "Stormy Samples II",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Hard-Osiris-Stash-2_ShortDescription": {
+    "SourceString": "Search for the Dead Drop at Pinnacle Labs on Crescent Falls",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Hard-Osiris-Stash-2_Description": {
+    "SourceString": "Head down to Pinnacle Labs, look for the Dead Drop there and stash Glowy Brightcap Mushrooms in it. Our Field Scientists will pick them up later.",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Hard-Osiris-Stash-2_Objective": {
+    "SourceString": "Stash Glowy Brightcap Mushrooms in the Pinnacle Labs Dead Drop",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Hard-Osiris-Stash-3_Name": {
+    "SourceString": "Loadout Drop",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Hard-Osiris-Stash-3_ShortDescription": {
+    "SourceString": "Search for the Dead Drop at Pinnacle Labs on Crescent Falls",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Hard-Osiris-Stash-3_Description": {
+    "SourceString": "One of our more... lethal assets on Fortuna requires some gear for her next job. Go stash some in the Pinnacle Labs Dead Drop for her.",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Hard-Osiris-Stash-3_Objective1": {
+    "SourceString": "Stash a Rare Shield in the Pinnacle Labs Dead Drop",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Hard-Osiris-Stash-3_Objective2": {
+    "SourceString": "Stash a Rare Helmet in the Pinnacle Labs Dead Drop",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Hard-Osiris-Stash-3_Objective3": {
+    "SourceString": "Stash a Rare Backpack in the Pinnacle Labs Dead Drop",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Easy-ICA-Flora-1_Name": {
+    "SourceString": "Calorie Deficit",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Easy-ICA-Flora-1_Description": {
+    "SourceString": "Prospector, we are running low on food and need your help. Go get us some Waterweed Filaments for our Nutrient Farms. And hurry please.",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Easy-ICA-Flora-1_ShortDescription": {
+    "SourceString": "Waterweed grows around Lakes and other still waters on Fortuna",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Medium-ICA-Flora-1_Name": {
+    "SourceString": "Mouths to feed",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Medium-ICA-Flora-1_Description": {
+    "SourceString": "We have to ask you once more to deliver some Waterweed Filaments to us. And more this time, to make sure we can feed the community a bit longer.",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Medium-ICA-Flora-1_ShortDescription": {
+    "SourceString": "Waterweed grows around Lakes and other still waters on Fortuna",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Medium-ICA-Flora-and-PvP-1_Name": {
+    "SourceString": "Gluttony",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Medium-ICA-Flora-and-PvP-1_Description": {
+    "SourceString": "What?! Osiris has been harvesting OUR Waterweed for their Research? Go get us more Waterweed Filaments and eliminate a Prospector, as a warning!",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Medium-ICA-Flora-and-PvP-1_ShortDescription": {
+    "SourceString": "Waterweed grows around Lakes and other still waters on Fortuna",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Easy-Osiris-Flora-and-PvE-1_Name": {
+    "SourceString": "Pesticide",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Easy-Osiris-Flora-and-PvE-1_Description": {
+    "SourceString": "Turns out that Striders sometimes feed on Waterweed Filaments. Eliminate some Striders for Ecosystem Analysis and bring us a few of those Filaments.",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Easy-Osiris-Flora-and-PvE-1_ShortDescription": {
+    "SourceString": "Waterweed grows around Lakes and other still waters on Fortuna",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Easy-Osiris-Flora-1_Name": {
+    "SourceString": "Pale Ivy",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Easy-Osiris-Flora-1_Description": {
+    "SourceString": "We have received reports of strange Ivy-like plants growing on walls and cliffs, bearing rare beautiful blossoms. Needless to say, we need samples.",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Easy-Osiris-Flora-1_ShortDescription": {
+    "SourceString": "Pale Ivy likes to grow on walls and cliffs in overgrown areas",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Medium-Osiris-Flora-1_Name": {
+    "SourceString": "Cross-Breeding",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Medium-Osiris-Flora-1_Description": {
+    "SourceString": "We want to cross-breed Pale Ivy with Waterweed, to hopefully create a plant with vast medicinal applications. Go get us the needed Mother Plants.",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Medium-Osiris-Flora-1_ShortDescription": {
+    "SourceString": "Pale Ivy likes to grow on walls and cliffs in overgrown areas",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Medium-Osiris-Flora-2_Name": {
+    "SourceString": "Dustbloom",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Medium-Osiris-Flora-2_Description": {
+    "SourceString": "A scout came back rambling about gorgeous vibrant flowers growing in dry and open plains on Fortuna. Go see if you can find some, and bring them back.",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Medium-Osiris-Flora-2_ShortDescription": {
+    "SourceString": "Dustbloom flourishes in open, arid areas of Fortuna",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Hard-KOR-Gather-6_Name": {
+    "SourceString": "Stocking Up",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Hard-KOR-Gather-6_Description": {
+    "SourceString": "We need Brittle Titan Ore, Prospector. And lots of it! I trust you know where to look for it by now? As they say, this is not your first rodeo.",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Hard-KOR-Gather-6_ShortDescription": {
+    "SourceString": "",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Hard-KOR-Gather-7_Name": {
+    "SourceString": "Shock and Awe",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Hard-KOR-Gather-7_Description": {
+    "SourceString": "Prospector, get us some Shock Absorbers from the surface, our equipment here needs maintenance. Get us the parts, if they're Korolev they'll still work for sure! Well... probably.",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Hard-KOR-Gather-7_ShortDescription": {
+    "SourceString": "",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Medium-KOR-Gather-6_Name": {
+    "SourceString": "No Expiry Date",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Medium-KOR-Gather-6_Description": {
+    "SourceString": "There you are, finally! There's been an accident at one of our factories and we urgently require Old Medicine from the surface, hurry!",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Medium-KOR-Gather-6_ShortDescription": {
+    "SourceString": "",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Medium-ICA-Gather-5_Name": {
+    "SourceString": "Let it grow",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Medium-ICA-Gather-5_Description": {
+    "SourceString": "Aha, there's our new rising star! Prospector, see if you can find us some Magic-GROW Fertilizer, it'll help with our nutrient farms on the station.",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Medium-ICA-Gather-5_ShortDescription": {
+    "SourceString": "",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Hard-ICA-Gather-7_Name": {
+    "SourceString": "A Craving",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Hard-ICA-Gather-7_Description": {
+    "SourceString": "Wanna make some extra cash? We would pay well for some Nutritional Bars. They taste funny, but nostalgia has deep pockets.",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Hard-ICA-Gather-7_ShortDescription": {
+    "SourceString": "",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Hard-ICA-Gather-8_Name": {
+    "SourceString": "Prim & Proper",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Hard-ICA-Gather-8_Description": {
+    "SourceString": "A delegation from off system just arrived, and our people need to look their best to woo them for patronage. Get us some Jewellery from the surface, hopefully we can impress.",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Hard-ICA-Gather-8_ShortDescription": {
+    "SourceString": "",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Medium-Osiris-Gather-4_Name": {
+    "SourceString": "Flexible Sealant",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Medium-Osiris-Gather-4_Description": {
+    "SourceString": "A number of our weather balloons took damage from recent storms, and we urgently need them back in the sky. Some Resin Guns should help patch them up.",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Medium-Osiris-Gather-4_ShortDescription": {
+    "SourceString": "",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Medium-Osiris-Gather-5_Name": {
+    "SourceString": "Indigenous Fruit",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Medium-Osiris-Gather-5_Description": {
+    "SourceString": "Ah, Prospector, have you come across any Indigenous Fruit on the surface? They seem to be a remarkably high source of potassium, they could make for good, cheap supplements.",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Medium-Osiris-Gather-5_ShortDescription": {
+    "SourceString": "",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Hard-Osiris-Gather-8_Name": {
+    "SourceString": "Don't get crushed",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Hard-Osiris-Gather-8_Description": {
+    "SourceString": "Gear up, Prospector! We need Crusher Skins for our Material Sciences Department. The tissue is said to be resistant to radiation, we must test that theory.",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Hard-Osiris-Gather-8_ShortDescription": {
+    "SourceString": "",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Hard-KOR-LaserDrill-1_Name": {
+    "SourceString": "Exclusive Drilling Rights",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Hard-KOR-LaserDrill-1_ShortDescription": {
+    "SourceString": "Craft a Laser Drill Beacon, find a Letium Gas Vent and call down a Laser Drill Platform to Drill for Letium. But get ready to defend it.",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEW-Hard-KOR-LaserDrill-1_Description": {
+    "SourceString": "Alright Prospector; gear up and go get us some more Letium. We will of course pay extra for the risks, as well as you absolute secrecy...",
+    "Comment": "",
+    "Other": ""
+  },
+  "NEEDS TEXT!!!": {
+    "SourceString": "NEEDS TEXT!!!",
+    "Comment": "",
+    "Other": ""
+  },
+  "_Name": {
+    "SourceString": "",
+    "Comment": "",
+    "Other": ""
+  },
+  "_Description": {
+    "SourceString": "",
+    "Comment": "",
+    "Other": ""
+  },
+  "_ShortDescription": {
+    "SourceString": "",
+    "Comment": "",
+    "Other": ""
+  },
+  "_Objective": {
+    "SourceString": "",
+    "Comment": "",
+    "Other": ""
+  }
+}
